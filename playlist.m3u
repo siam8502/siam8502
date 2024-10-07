@@ -104,5 +104,9 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-
+#EXTM3U
 https://raw.githubusercontent.com/byte-capsule/TSports-m3u8-Grabber/main/OTT_Navigator_Tspots_live.m3u
+#EXTM3U
+http://t.ly/bcUz
+#EXTM3U
+https://raw.githubusercontent.com/OngisMbois/IPTV-PREMIUM/refs/heads/main/DENSTV
