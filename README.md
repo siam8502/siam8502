@@ -110,5 +110,12 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(
 
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(universo-east)/master.mpd?|drmScheme=clearkey&drmLicense=232d71bb013d39ffb92ee8c576fb7e8e:087408a48be8d57046c3868b37ea90ba
 
-
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719672720-LIVE.jpg", T Sports Live 02
+#EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1728337111:KeyName=tsports-ed25519-01:Signature=dclyYgjvCILSDGXZpandRWrKozHp1kamLU4Ng_vdx5GGYGxn-KzsVMOTvyI-0zBziql9efTXVeK3A4NYl60RDA"}
+https://live-cdn.tsports.com/live-02/index.m3u8
+#EXTINF:-1 group-title="LIVE" tvg-chno="" tvg-id="" tvg-logo="https://image.tsports.com/images/mobile_logo/1719127161-LIVE.jpg", T Sports Live 01
+#EXTVLCOPT:http-user-agent=https://github.com/byte-capsule (Linux;Android 14)
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1728337111:KeyName=tsports-ed25519-01:Signature=dclyYgjvCILSDGXZpandRWrKozHp1kamLU4Ng_vdx5GGYGxn-KzsVMOTvyI-0zBziql9efTXVeK3A4NYl60RDA"}
+https://live-cdn.tsports.com/live-01/index.m3u8
 
