@@ -206,7 +206,3 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_pix_hd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1728491122:KeyName=prod_linear:Signature=VO8GZLeyGs9CcGYZTxo3KpjSTnrCRsio4rLtKjggk7tvE4d6W6-H1bjOlYRiF-G-Guroux_O9Et2sZQGYAxBBg"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/b4u_movies/playlist.m3u8
-#EXTINF:-1 Astro 50 fps
-#EXTVLCOPT:http-user-agent= Mozilla/5.0 (Linux; Android 6.0.1; SM-C7000) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"_ga=GA1.2.815415452.1728305200;_gid=GA1.2.1823426148.1728305200"}
- https://drmlive.in/sports/Astro/default.mpd
