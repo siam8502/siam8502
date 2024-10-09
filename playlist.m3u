@@ -304,3 +304,30 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta30_HD_HVC/GO3_LIVE_DASH_HVC/Setanta3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
 https://cdnlb.tvplayhome.lt/live/eds/Setanta31_HD_HVC/GO3_LIVE_DASH_HVC/Setanta31_HD_HVC.mpd
+
+#EXTINF:0,T SPORTS 
+http://97.74.103.44:8089/amrbd/T-SPORTS/chunks.m3u8
+#EXTINF:0,FOX 
+http://97.74.103.44:8089/load/Fox-Sports/chunks.m3u8
+#EXTINF:0,ASTRO CRICKET 
+http://97.74.103.44:8089/load/astrocricket/chunks.m3u8
+#EXTINF:0,STAR SPORTS 1
+http://97.74.103.44:8089/load/Star_Sports_1/chunks.m3u8
+#EXTINF:0,STAR SPORTS 2
+http://97.74.103.44:8089/load/Star_Sports_2_HD/chunks.m3u8
+#EXTINF:0,SONY SPORTS 1
+http://97.74.103.44:8089/load/TEN_1_HD/chunks.m3u8
+#EXTINF:0,SONY SPORTS 2
+http://97.74.103.44:8089/load/TEN_2_HD/chunks.m3u8
+#EXTINF:0,SONY SPORTS 3
+http://97.74.103.44:8089/bangla/TEN_3_HD/chunks.m3u8
+#EXTINF:0,A SPORTS
+http://97.74.103.44:8089/amrbd/A-SPORTS/chunks.m3u8
+#EXTINF:0,SKY SPORTS 
+http://97.74.103.44:8089/amrbd/SKY-SPORTS/chunks.m3u8
+#EXTINF:0,SKY CRICKET 
+http://97.74.103.44:8089/nimble_live/skycricket/playlist.m3u8
+#EXTINF:0,ARY DIGITAL 
+http://97.74.103.44:8089/load/arydigital/chunks.m3u8
+#EXTINF:0,NICK
+http://97.74.103.44:8089/load/nick_bangla/chunks.m3u8
