@@ -342,4 +342,5 @@ http://97.74.103.44:8089/load/arydigital/chunks.m3u8
 http://97.74.103.44:8089/load/nick_bangla/chunks.m3u8
 
 
-
+#EXTINF:0,LIVE
+https://raw.githubusercontent.com/byte-capsule/TSports-m3u8-Grabber/refs/heads/main/OTT_Navigator_Tspots_live.m3u
