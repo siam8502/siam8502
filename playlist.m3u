@@ -108,8 +108,8 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTM3U
 #EXTINF:0, group-title="LIVE EVENT" tvg-id="SONY LIV 1 "
 https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8
 #EXTINF:0, group-title="LIVE EVENT" tvg-id="SONY LIV 2 "
