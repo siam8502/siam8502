@@ -282,10 +282,15 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta31_HD_HVC/GO3_LIVE_DASH_HVC/Setanta3
 
 #EXTINF:0,T SPORTS 
 http://97.74.103.44:8089/amrbd/T-SPORTS/chunks.m3u8
-#EXTINF:0,FOX 
+#EXTINF:0,FS
 http://97.74.103.44:8089/load/Fox-Sports/chunks.m3u8
+#EXTINF:0, FOX 501/SKY SPORTS FHD
+http://97.74.103.44:8089/amrbd/SKY-SPORTS/playlist.m3u8
 #EXTINF:0,ASTRO CRICKET 
 http://97.74.103.44:8089/load/astrocricket/chunks.m3u8
+#EXTINF:0,SELECT 1
+http://97.74.103.44:8089/amrbd/SPL-1/playlist.m3u8
+
 #EXTINF:0,STAR SPORTS 1
 http://97.74.103.44:8089/load/Star_Sports_1/chunks.m3u8
 #EXTINF:0,STAR SPORTS 2
