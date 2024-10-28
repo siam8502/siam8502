@@ -68,6 +68,9 @@ https://f77zvuxbr89.a.trbcdn.net/reserv9/index.m3u8
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
 #EXTINF:1,SPORTS ITALIA 2
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
-
+#EXTINF:1, AP 1
+https://ddy5.iosplayer.ru/tshttp/ddy5/premium134/mono.m3u8?token=none
 #EXTM3U, Sony liv
 https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u
+#EXTM3U, BE SPORTS
+http://t.ly/bcUz
