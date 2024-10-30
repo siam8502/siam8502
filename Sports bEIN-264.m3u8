@@ -62,6 +62,7 @@ http://45.90.106.98/digisport3/index.m3u8
 http://45.90.106.98/eurosport/index.m3u8
 #EXTINF:1,EUROSPORT 2
 http://45.90.106.98/eurosport2/index.m3u8
+http://gcp-dash.ngslbs.com/TVD014/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
 #EXTINF:1,O SPORTS 
 https://f77zvuxbr89.a.trbcdn.net/reserv9/index.m3u8
 #EXTINF:1,SPORTS ITALIA 
@@ -72,6 +73,42 @@ https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 https://key2.keylocking.ru/wmsxx.php?test=true&name=premium134&number=1
 #EXTM3U
 https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u
-#EXTINF:1,BE SPORTS
-#EXTM3U
-http://t.ly/bcUz
+#EXTINF:1,TNT SPORTS 1
+http://gcp-dash.ngslbs.com/TVD001/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
+#EXTINF:1,TNT SPORTS 2
+http://gcp-dash.ngslbs.com/TVD002/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
+#EXTINF:1,TNT SPORTS 3
+http://gcp-dash.ngslbs.com/TVD003/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
+#EXTINF:1,TNT SPORTS 4
+http://gcp-dash.ngslbs.com/TVD004/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
+#EXTINF:1,TNT SPORTS 5
+http://gcp-dash.ngslbs.com/TVD005/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
+
+#EXTINF:1,SKY SPORTS CRICKET 
+http://gcp-dash.ngslbs.com/TVD024/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
+
+#EXTINF:1,SKY SPORTS NFL
+http://gcp-dash.ngslbs.com/TVD015/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
+#EXTINF:1,SKY SPORTS GOLF
+http://gcp-dash.ngslbs.com/TVD016/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
+#EXTINF:1,SKY SPORTS FOOTBALL 
+http://gcp-dash.ngslbs.com/TVD017/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
+#EXTINF:1,SKY 1
+http://gcp-dash.ngslbs.com/TVD018/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
+#EXTINF:1,SKY 2
+http://gcp-dash.ngslbs.com/TVD019/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
+#EXTINF:1,SKY 3
+http://gcp-dash.ngslbs.com/TVD019/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
+
+#EXTINF:1,SKY 4
+http://gcp-dash.ngslbs.com/TVD020/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
+
+#EXTINF:1,SKY news 
+http://gcp-dash.ngslbs.com/TVD021/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
+
+#EXTINF:1,SKY Sports Mix
+http://gcp-dash.ngslbs.com/TVD022/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
+
+#EXTINF:1,SKY Sports F1
+http://gcp-dash.ngslbs.com/TVD023/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
+
