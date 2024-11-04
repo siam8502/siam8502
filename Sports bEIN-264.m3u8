@@ -40,18 +40,61 @@ http://gcp-dash.ngslbs.com/TVD4054/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cD
 
 #EXTINF:1,ARENA SPORTS 1
 https://f77zvuxbr89.a.trbcdn.net/reserv11/index.m3u8
+
 #EXTINF:1,ARENA SPORTS 2
 https://f77zvuxbr89.a.trbcdn.net/reserv12/index.m3u8
+
 #EXTINF:1,ARENA SPORTS 3
 https://f77zvuxbr89.a.trbcdn.net/reserv13/index.m3u8
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31603/index.m3u8
 #EXTINF:1,ARENA SPORTS 4
 https://f77zvuxbr89.a.trbcdn.net/reserv14/index.m3u8
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31605/index.m3u8
 #EXTINF:1,ARENA SPORTS 5
 https://f77zvuxbr89.a.trbcdn.net/reserv15/index.m3u8
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31606/index.m3u8
 #EXTINF:1,ARENA SPORTS 6
 https://f77zvuxbr89.a.trbcdn.net/reserv16/index.m3u8
+
 #EXTINF:1,ARENA SPORTS 7
 https://f77zvuxbr89.a.trbcdn.net/reserv17/index.m3u8
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31608/index.m3u8
+#EXTINF:1,ARENA SPORTS 8
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31609/index.m3u8
+#EXTINF:1,ARENA SPORTS 9
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31610/index.m3u8
+#EXTINF:1,ARENA SPORTS 1X2 
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31611/index.m3u8
+#EXTINF:1,ARENA SPORTS PREMIUM 1
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31599/index.m3u8
+#EXTINF:1,ARENA SPORTS PREMIUM 2 
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31600/index.m3u8
+#EXTINF:1,ARENA SPORTS PREMIUM 3 
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31601/index.m3u8
+#EXTINF:1,COSMOTE SPORTS 1
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31578/index.m3u8
+#EXTINF:1,COSMOTE SPORTS 2
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31579/index.m3u8
+
+#EXTINF:1,COSMOTE SPORTS 4
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31582/index.m3u8
+
+#EXTINF:1,COSMOTE SPORTS 5
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31583/index.m3u8
+
+#EXTINF:1,COSMOTE SPORTS 6
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31584/index.m3u8
+
+#EXTINF:1,COSMOTE SPORTS 7
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31585/index.m3u8
+#EXTINF:1,COSMOTE SPORTS 8
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31586/index.m3u8
+
+#EXTINF:1,COSMOTE SPORTS 9
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31587/index.m3u8
+#EXTINF:1,COSMOTE SPORTS hd
+http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31588/index.m3u8
+
 #EXTINF:1,DIGI SPORT 1
 http://45.90.106.98/digisport1/index.m3u8
 #EXTINF:1,DIGI SPORT 2
