@@ -112,3 +112,126 @@ http://gcp-dash.ngslbs.com/TVD022/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDo
 #EXTINF:1,SKY Sports F1
 http://gcp-dash.ngslbs.com/TVD023/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
 
+
+#EXTINF:0,Канал 1
+https://fr.globalplay.live/Sports-1/index.fmp4.m3u8
+#EXTINF:0,Канал 2
+https://fr.globalplay.live/Sports-2/index.fmp4.m3u8
+#EXTINF:0,Канал 3
+https://fr.globalplay.live/Sports-3/index.fmp4.m3u8
+#EXTINF:0,Канал 4
+https://fr.globalplay.live/Sports-4/index.fmp4.m3u8
+#EXTINF:0,Канал 5
+https://fr.globalplay.live/Sports-5/index.fmp4.m3u8
+#EXTINF:0,Канал 6
+https://fr.globalplay.live/Sports-6/index.fmp4.m3u8
+#EXTINF:0,Канал 7
+https://fr.globalplay.live/Sports-7/index.fmp4.m3u8
+#EXTINF:0,Канал 8
+https://fr.globalplay.live/Sports-8/index.fmp4.m3u8
+#EXTINF:0,Канал 9
+https://fr.globalplay.live/Sports-9/index.fmp4.m3u8
+#EXTINF:0,Канал 10
+https://fr.globalplay.live/Sports-10/index.fmp4.m3u8
+#EXTINF:0,Канал 11
+https://fr.globalplay.live/Sports-11/index.fmp4.m3u8
+#EXTINF:0,Канал 12
+https://fr.globalplay.live/Sports-12/index.fmp4.m3u8
+#EXTINF:0,Канал 13
+https://fr.globalplay.live/Sports-13/index.fmp4.m3u8
+#EXTINF:0,Канал 14
+https://fr.globalplay.live/Sports-14/index.fmp4.m3u8
+#EXTINF:0,Канал 15
+https://fr.globalplay.live/Sports-15/index.fmp4.m3u8
+#EXTINF:0,Канал 16
+https://fr.globalplay.live/Sports-16/index.fmp4.m3u8
+#EXTINF:0,Канал 17
+https://fr.globalplay.live/Sports-17/index.fmp4.m3u8
+#EXTINF:0,Канал 18
+https://fr.globalplay.live/Sports-18/index.fmp4.m3u8
+#EXTINF:0,Канал 19
+https://fr.globalplay.live/Sports-19/index.fmp4.m3u8
+#EXTINF:0,Канал 20
+https://fr.globalplay.live/Sports-20/index.fmp4.m3u8
+#EXTINF:0,Канал 21
+https://fr.globalplay.live/Sports-21/index.fmp4.m3u8
+#EXTINF:0,Канал 22
+https://fr.globalplay.live/Sports-22/index.fmp4.m3u8
+#EXTINF:0,Канал 23
+https://fr.globalplay.live/Sports-23/index.fmp4.m3u8
+#EXTINF:0,Канал 24
+https://fr.globalplay.live/Sports-24/index.fmp4.m3u8
+#EXTINF:0,Канал 25
+https://fr.globalplay.live/Sports-25/index.fmp4.m3u8
+#EXTINF:0,Канал 26
+https://fr.globalplay.live/Sports-26/index.fmp4.m3u8
+#EXTINF:0,Канал 27
+https://fr.globalplay.live/Sports-27/index.fmp4.m3u8
+#EXTINF:0,Канал 28
+https://fr.globalplay.live/Sports-28/index.fmp4.m3u8
+#EXTINF:0,Канал 29
+https://fr.globalplay.live/Sports-29/index.fmp4.m3u8
+#EXTINF:0,Канал 30
+https://fr.globalplay.live/Sports-30/index.fmp4.m3u8
+#EXTINF:0,Канал 31
+https://fr.globalplay.live/Sports-31/index.fmp4.m3u8
+#EXTINF:0,Канал 32
+https://fr.globalplay.live/Sports-32/index.fmp4.m3u8
+#EXTINF:0,Канал 33
+https://fr.globalplay.live/Sports-33/index.fmp4.m3u8
+#EXTINF:0,Канал 34
+https://fr.globalplay.live/Sports-34/index.fmp4.m3u8
+#EXTINF:0,Канал 35
+https://fr.globalplay.live/Sports-35/index.fmp4.m3u8
+#EXTINF:0,Канал 36
+https://fr.globalplay.live/Sports-36/index.fmp4.m3u8
+#EXTINF:0,Канал 37
+https://fr.globalplay.live/Sports-37/index.fmp4.m3u8
+#EXTINF:0,Канал 38
+https://fr.globalplay.live/Sports-38/index.fmp4.m3u8
+#EXTINF:0,Канал 39
+https://fr.globalplay.live/Sports-39/index.fmp4.m3u8
+#EXTINF:0,Канал 40
+https://fr.globalplay.live/Sports-40/index.fmp4.m3u8
+#EXTINF:0,Канал 41
+https://fr.globalplay.live/Sports-41/index.fmp4.m3u8
+#EXTINF:0,Канал 42
+https://fr.globalplay.live/Sports-42/index.fmp4.m3u8
+#EXTINF:0,Канал 43
+https://fr.globalplay.live/Sports-43/index.fmp4.m3u8
+#EXTINF:0,Канал 44
+https://fr.globalplay.live/Sports-44/index.fmp4.m3u8
+#EXTINF:0,Канал 45
+https://fr.globalplay.live/Sports-45/index.fmp4.m3u8
+#EXTINF:0,Канал 46
+https://fr.globalplay.live/Sports-46/index.fmp4.m3u8
+#EXTINF:0,Канал 47
+https://fr.globalplay.live/Sports-47/index.fmp4.m3u8
+#EXTINF:0,Канал 48
+https://fr.globalplay.live/Sports-48/index.fmp4.m3u8
+#EXTINF:0,Канал 49
+https://fr.globalplay.live/Sports-49/index.fmp4.m3u8
+#EXTINF:0,Канал 50
+https://fr.globalplay.live/Sports-50/index.fmp4.m3u8
+#EXTINF:0,Канал 51
+https://fr.globalplay.live/Sports-51/index.fmp4.m3u8
+#EXTINF:0,Канал 52
+https://fr.globalplay.live/Sports-52/index.fmp4.m3u8
+#EXTINF:0,Канал 53
+https://fr.globalplay.live/Sports-53/index.fmp4.m3u8
+#EXTINF:0,Канал 54
+https://fr.globalplay.live/Sports-54/index.fmp4.m3u8
+#EXTINF:0,Канал 55
+https://fr.globalplay.live/Sports-55/index.fmp4.m3u8
+#EXTINF:0,Канал 56
+https://fr.globalplay.live/Sports-56/index.fmp4.m3u8
+#EXTINF:0,Канал 57
+https://fr.globalplay.live/Sports-57/index.fmp4.m3u8
+#EXTINF:0,Канал 58
+https://fr.globalplay.live/Sports-58/index.fmp4.m3u8
+#EXTINF:0,Канал 59
+https://fr.globalplay.live/Sports-59/index.fmp4.m3u8
+#EXTINF:0,Канал 60
+https://fr.globalplay.live/Sports-60/index.fmp4.m3u8
+
+
