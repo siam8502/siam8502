@@ -6,6 +6,10 @@ https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/ind
 http://82.215.111.227/1263/index.m3u8
 #EXTINF:-1,SETANTA SPORTS 2
 http://82.215.111.227/1264/index.m3u8
+#EXTINF:-1,FOX SPORTS 501
+http://103.175.242.10:8080/foxcricekt/mono.m3u8
+#EXTINF:-1,RTA SPORTS 
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:1, Bein Sports 1 
 http://gcp-dash.ngslbs.com/TVD4001/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAwMS8:Expires=1730002002:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=DwBk0ze0_lOGaMyPj7j4avtzWsdNS_VV3yHZW_V1GJlomfXRa3PyRQY5AtFfghLujLZg_51rrtIcx22Mv1lUDg==;UserToken=00000000000001024230202410262006228518
 #EXTINF:1, BEIN SPORTS 2
