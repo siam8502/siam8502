@@ -159,6 +159,10 @@ http://gcp-dash.ngslbs.com/TVD022/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDo
 #EXTINF:1,SKY Sports F1
 http://gcp-dash.ngslbs.com/TVD023/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
 
+#EXTINF:1,SONY LIV
+https://key2.keylocking.ru/wmsxx.php?test=true&name=premium134&number=1
+#EXTM3U
+https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Github.m3u8
 
 #EXTINF:0,Канал 1
 https://fr.globalplay.live/Sports-1/index.fmp4.m3u8
