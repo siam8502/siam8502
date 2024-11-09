@@ -327,7 +327,7 @@ http://103.175.242.10:8080/31-Starsportselect/tracks-v1a1/mono.m3u8
 #EXTINF:0,starsportsselect2
 http://103.175.242.10:8080/starsportsselect2/tracks-v1a1/mono.m3u8
 #EXTINF:0,foxcricekt
-http://103.175.242.10:8080/foxcricekt/tracks-v1/mono.m3u8
+http://103.175.242.10:8080/foxcricekt/mono.m3u8
 #EXTINF:0,ZeeBangla
 http://103.175.242.10:8080/23-ZeeBangla/tracks-v1a1/mono.m3u8
 #EXTINF:0,Jalshamovies
