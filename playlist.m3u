@@ -298,6 +298,77 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta30_HD_HVC/GO3_LIVE_DASH_HVC/Setanta3
 #KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
 https://cdnlb.tvplayhome.lt/live/eds/Setanta31_HD_HVC/GO3_LIVE_DASH_HVC/Setanta31_HD_HVC.mpd
 
+#EXTINF:0,tsports2
+http://103.175.242.10:8080/tsports2/tracks-v1a1/mono.m3u8
+#EXTINF:0,tsports
+http://103.175.242.10:8080/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tsports1
+http://103.175.242.10:8080/Tsports1/tracks-v1a1/mono.m3u8
+#EXTINF:0,Gtv
+http://103.175.242.10:8080/27-Gtv/tracks-v1a1/mono.m3u8
+#EXTINF:0,gtv2
+http://103.175.242.10:8080/gtv2/tracks-v1a1/mono.m3u8
+#EXTINF:0,skysportsfootball
+http://103.175.242.10:8080/skysportsfootball/tracks-v1a1/mono.m3u8
+#EXTINF:0,sports18
+http://103.175.242.10:8080/sports18/tracks-v1a1/mono.m3u8
+#EXTINF:0,Starsport1
+http://103.175.242.10:8080/02-Starsport1/tracks-v1a1/mono.m3u8
+#EXTINF:0,starsports2
+http://103.175.242.10:8080/starsports2-1/tracks-v1a1/mono.m3u8
+#EXTINF:0,sonyten1
+http://103.175.242.10:8080/sonyten1/tracks-v1a1/mono.m3u8
+#EXTINF:0,sonysports2
+http://103.175.242.10:8080/54-sonysports2/tracks-v1a1/mono.m3u8
+#EXTINF:0,sonysports5
+http://103.175.242.10:8080/sonysports5/tracks-v1a1/mono.m3u8
+#EXTINF:0,Starsportselect
+http://103.175.242.10:8080/31-Starsportselect/tracks-v1a1/mono.m3u8
+#EXTINF:0,starsportsselect2
+http://103.175.242.10:8080/starsportsselect2/tracks-v1a1/mono.m3u8
+#EXTINF:0,foxcricekt
+http://103.175.242.10:8080/foxcricekt/tracks-v1/mono.m3u8
+#EXTINF:0,ZeeBangla
+http://103.175.242.10:8080/23-ZeeBangla/tracks-v1a1/mono.m3u8
+#EXTINF:0,Jalshamovies
+http://103.175.242.10:8080/23-Jalshamovies/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sonyaath
+http://103.175.242.10:8080/25-Sonyaath/tracks-v1a1/mono.m3u8
+#EXTINF:0,StarJalsha
+http://103.175.242.10:8080/22-StarJalsha/tracks-v1a1/mono.m3u8
+#EXTINF:0,starjalsha
+http://103.175.242.10:8080/starjalsha/tracks-v1a1/mono.m3u8
+#EXTINF:0,sonypix
+http://103.175.242.10:8080/sonypix/tracks-v1a1/mono.m3u8
+#EXTINF:0,starmovies
+http://103.175.242.10:8080/starmovies/tracks-v1a1/mono.m3u8
+#EXTINF:0,moviesnow
+http://103.175.242.10:8080/moviesnow/tracks-v1a1/mono.m3u8
+#EXTINF:0,star-movies
+http://103.175.242.10:8080/star-movies/tracks-v1a1/mono.m3u8
+#EXTINF:0,Sonymax
+http://103.175.242.10:8080/61-Sonymax/tracks-v1a1/mono.m3u8
+#EXTINF:0,RTA SPORTS
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+#EXTINF:0,WC T20 Live 6
+http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/7343/index.m3u8
+#EXTINF:0,WC T20 Live 7
+http://9veyn1bt.otttv.pw/iptv/M9SZURBGLS597E/7343/index.m3u8
+#EXTINF:0,Zee Bangla HD (cloudfront)
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd/default/Zeebanglahd.m3u8
+#EXTINF:0,Zee Bangla (cloudfront)
+https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/index.m3u8
+#EXTINF:0,NTV
+http://103.230.105.252:1935/live/ntv/manifest.m3u8
+#EXTINF:0,EKUSHEY TV HD (Jagobd)
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:0,Star Jalsha HD (30min Left)
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+#EXTINF:0,Zee Bangla (30min Left)
+https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
+#EXTINF:0,T-Sports Live
+https://edge4-moblive.yuppcdn.net/transsd/smil:eventtv.smil/playlist.m3u8
+
 
 #EXTINF:0,T SPORTS 
 http://97.74.103.44:8089/amrbd/T-SPORTS/chunks.m3u8
