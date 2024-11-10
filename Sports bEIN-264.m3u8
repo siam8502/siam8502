@@ -18,34 +18,33 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:1, Bein Sports 1 
 http://gcp-dash.ngslbs.com/TVD4001/index.mpd
 #EXTINF:1,BEIN SPORTS 2
-http://gcp-dash.ngslbs.com/TVD4002/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAwMS8:Expires=1730002002:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=DwBk0ze0_lOGaMyPj7j4avtzWsdNS_VV3yHZW_V1GJlomfXRa3PyRQY5AtFfghLujLZg_51rrtIcx22Mv1lUDg==;UserToken=00000000000001024230202410262006228518
+http://gcp-dash.ngslbs.com/TVD4002/index.mpd
 #EXTINF:1, BEIN SPORTS 3
-http://gcp-dash.ngslbs.com/TVD4003/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAwMS8:Expires=1730002002:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=DwBk0ze0_lOGaMyPj7j4avtzWsdNS_VV3yHZW_V1GJlomfXRa3PyRQY5AtFfghLujLZg_51rrtIcx22Mv1lUDg==;UserToken=00000000000001024230202410262006228518
+http://gcp-dash.ngslbs.com/TVD4003/index.mpd
 #EXTINF:1, BEIN SPORTS 4
-http://gcp-dash.ngslbs.com/TVD4004/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAwMS8:Expires=1730002002:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=DwBk0ze0_lOGaMyPj7j4avtzWsdNS_VV3yHZW_V1GJlomfXRa3PyRQY5AtFfghLujLZg_51rrtIcx22Mv1lUDg==;UserToken=00000000000001024230202410262006228518
+http://gcp-dash.ngslbs.com/TVD4004/index.mpd
 #EXTINF:1, BEIN SPORTS 5
-http://gcp-dash.ngslbs.com/TVD4005/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAwMS8:Expires=1730002002:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=DwBk0ze0_lOGaMyPj7j4avtzWsdNS_VV3yHZW_V1GJlomfXRa3PyRQY5AtFfghLujLZg_51rrtIcx22Mv1lUDg==;UserToken=00000000000001024230202410262006228518
+http://gcp-dash.ngslbs.com/TVD4005/index.mpd
 #EXTINF:1, BEIN SPORTS 6
-http://gcp-dash.ngslbs.com/TVD4006/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAwMS8:Expires=1730002002:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=DwBk0ze0_lOGaMyPj7j4avtzWsdNS_VV3yHZW_V1GJlomfXRa3PyRQY5AtFfghLujLZg_51rrtIcx22Mv1lUDg==;UserToken=00000000000001024230202410262006228518
+http://gcp-dash.ngslbs.com/TVD4006/index.mpd
 #EXTINF:1, BEIN SPORTS 7
-http://gcp-dash.ngslbs.com/TVD4007/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAwMS8:Expires=1730002002:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=DwBk0ze0_lOGaMyPj7j4avtzWsdNS_VV3yHZW_V1GJlomfXRa3PyRQY5AtFfghLujLZg_51rrtIcx22Mv1lUDg==;UserToken=00000000000001024230202410262006228518
-
+http://gcp-dash.ngslbs.com/TVD4007/index.mpd
 #EXTINF:1, BEIN SPORTS 8
-http://gcp-dash.ngslbs.com/TVD4062/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAwMS8:Expires=1730002002:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=DwBk0ze0_lOGaMyPj7j4avtzWsdNS_VV3yHZW_V1GJlomfXRa3PyRQY5AtFfghLujLZg_51rrtIcx22Mv1lUDg==;UserToken=00000000000001024230202410262006228518
+http://gcp-dash.ngslbs.com/TVD4062/index.mpd
 #EXTINF:1, BEIN SPORTS 9
-http://gcp-dash.ngslbs.com/TVD4063/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAwMS8:Expires=1730002002:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=DwBk0ze0_lOGaMyPj7j4avtzWsdNS_VV3yHZW_V1GJlomfXRa3PyRQY5AtFfghLujLZg_51rrtIcx22Mv1lUDg==;UserToken=00000000000001024230202410262006228518
+http://gcp-dash.ngslbs.com/TVD4063/index.mpd
 #EXTINF:1, BEIN SPORTS ENGLISH 1
-http://gcp-dash.ngslbs.com/TVD4011/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAwMS8:Expires=1730002002:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=DwBk0ze0_lOGaMyPj7j4avtzWsdNS_VV3yHZW_V1GJlomfXRa3PyRQY5AtFfghLujLZg_51rrtIcx22Mv1lUDg==;UserToken=00000000000001024230202410262006228518
+http://gcp-dash.ngslbs.com/TVD4011/index.mpd
 #EXTINF:1, BEIN SPORTS ENGLISH 2
-http://gcp-dash.ngslbs.com/TVD4012/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAwMS8:Expires=1730002002:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=DwBk0ze0_lOGaMyPj7j4avtzWsdNS_VV3yHZW_V1GJlomfXRa3PyRQY5AtFfghLujLZg_51rrtIcx22Mv1lUDg==;UserToken=00000000000001024230202410262006228518
+http://gcp-dash.ngslbs.com/TVD4012/index.mpd
 #EXTINF:1, BEIN SPORTS ENGLISH 3
-http://gcp-dash.ngslbs.com/TVD4013/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAwMS8:Expires=1730002002:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=DwBk0ze0_lOGaMyPj7j4avtzWsdNS_VV3yHZW_V1GJlomfXRa3PyRQY5AtFfghLujLZg_51rrtIcx22Mv1lUDg==;UserToken=00000000000001024230202410262006228518
+http://gcp-dash.ngslbs.com/TVD4013/index.mpd
 #EXTINF:1, BEIN SPORTS AFC 1
-http://gcp-dash.ngslbs.com/TVD4064/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAwMS8:Expires=1730002002:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=DwBk0ze0_lOGaMyPj7j4avtzWsdNS_VV3yHZW_V1GJlomfXRa3PyRQY5AtFfghLujLZg_51rrtIcx22Mv1lUDg==;UserToken=00000000000001024230202410262006228518
+http://gcp-dash.ngslbs.com/TVD4064/index.mpd
 #EXTINF:1, BEIN SPORTS AFC 2
-http://gcp-dash.ngslbs.com/TVD4065/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAwMS8:Expires=1730002002:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=DwBk0ze0_lOGaMyPj7j4avtzWsdNS_VV3yHZW_V1GJlomfXRa3PyRQY5AtFfghLujLZg_51rrtIcx22Mv1lUDg==;UserToken=00000000000001024230202410262006228518
+http://gcp-dash.ngslbs.com/TVD4065/index.mpd
 #EXTINF:1, BEIN SPORTS LIVE 1
-http://gcp-dash.ngslbs.com/TVD4054/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAwMS8:Expires=1730002002:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=DwBk0ze0_lOGaMyPj7j4avtzWsdNS_VV3yHZW_V1GJlomfXRa3PyRQY5AtFfghLujLZg_51rrtIcx22Mv1lUDg==;UserToken=00000000000001024230202410262006228518
+http://gcp-dash.ngslbs.com/TVD4054/index.mpd
 
 #EXTINF:1,ARENA SPORTS 1
 https://f77zvuxbr89.a.trbcdn.net/reserv11/index.m3u8
@@ -126,48 +125,44 @@ https://key2.keylocking.ru/wmsxx.php?test=true&name=premium134&number=1
 #EXTM3U
 https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u
 #EXTINF:1,TNT SPORTS 1
-http://gcp-dash.ngslbs.com/TVD001/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
+http://gcp-dash.ngslbs.com/TVD001/index.mpd
 #EXTINF:1,TNT SPORTS 2
-http://gcp-dash.ngslbs.com/TVD002/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
+http://gcp-dash.ngslbs.com/TVD002/index.mpd
 #EXTINF:1,TNT SPORTS 3
-http://gcp-dash.ngslbs.com/TVD003/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
+http://gcp-dash.ngslbs.com/TVD003/index.mpd
 #EXTINF:1,TNT SPORTS 4
-http://gcp-dash.ngslbs.com/TVD004/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
+http://gcp-dash.ngslbs.com/TVD004/index.mpd
 #EXTINF:1,TNT SPORTS 5
-http://gcp-dash.ngslbs.com/TVD005/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
-
+http://gcp-dash.ngslbs.com/TVD005/index.mpd
 #EXTINF:1,SKY SPORTS CRICKET 
 http://gcp-dash.ngslbs.com/TVD024/index.mpd
-#EXTINF:1,SKY SPORTS NFL
-http://gcp-dash.ngslbs.com/TVD015/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
-#EXTINF:1,SKY SPORTS GOLF
-http://gcp-dash.ngslbs.com/TVD016/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
-#EXTINF:1,SKY SPORTS FOOTBALL 
-http://gcp-dash.ngslbs.com/TVD017/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
-#EXTINF:1,SKY 1
-http://gcp-dash.ngslbs.com/TVD018/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
-#EXTINF:1,SKY 2
-http://gcp-dash.ngslbs.com/TVD019/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
-#EXTINF:1,SKY 3
-http://gcp-dash.ngslbs.com/TVD019/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
 
+#EXTINF:1,SKY SPORTS NFL
+http://gcp-dash.ngslbs.com/TVD015/index.mpd
+#EXTINF:1,SKY SPORTS GOLF
+http://gcp-dash.ngslbs.com/TVD016/index.mpd
+#EXTINF:1,SKY SPORTS FOOTBALL 
+http://gcp-dash.ngslbs.com/TVD017/index.mpd
+#EXTINF:1,SKY 1
+http://gcp-dash.ngslbs.com/TVD018/index.mpd
+#EXTINF:1,SKY 2
+http://gcp-dash.ngslbs.com/TVD019/index.mpd
+#EXTINF:1,SKY 3
+http://gcp-dash.ngslbs.com/TVD019/index.mpd
 #EXTINF:1,SKY 4
-http://gcp-dash.ngslbs.com/TVD020/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
+http://gcp-dash.ngslbs.com/TVD020/index.mpd
 
 #EXTINF:1,SKY news 
-http://gcp-dash.ngslbs.com/TVD021/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
-
+http://gcp-dash.ngslbs.com/TVD021/index.mpd
 #EXTINF:1,SKY Sports Mix
-http://gcp-dash.ngslbs.com/TVD022/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
-
+http://gcp-dash.ngslbs.com/TVD022/index.mpd
 #EXTINF:1,SKY Sports F1
-http://gcp-dash.ngslbs.com/TVD023/index.mpd?/Edge-Cache-Cookie=URLPrefix=aHR0cDovL2djcC1kYXNoLm5nc2xicy5jb20vVFZENDAxMS8:Expires=1729400196:KeyName=source-cdn:IPRanges=MC4wLjAuMC8w:Signature=0RGNvZwMu8bhY1_z9b-iaOf1Ix93sUAwkmyM7xQQLGsfREUT23fopw1FJ9TdOSfFEfdWfFUZjU8f4kAzf5ULDg==;UserToken=00000000000001023673202410192056238588
-
+http://gcp-dash.ngslbs.com/TVD023/index.mpd
 #EXTINF:1,SONY LIV
 https://key2.keylocking.ru/wmsxx.php?test=true&name=premium134&number=1
-
 #EXTM3U
 https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Github.m3u8
+
 #EXTINF:0,Канал 1
 https://fr.globalplay.live/Sports-1/index.fmp4.m3u8
 #EXTINF:0,Канал 2
