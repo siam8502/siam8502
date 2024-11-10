@@ -164,39 +164,39 @@ https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.
 
 
 
-#EXTINF:0, group-title="LIVE EVENT", SONY LIV 1
+#EXTINF:0 group-title="LIVE EVENT", SONY LIV 1
 https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8
-#EXTINF:0, group-title="LIVE EVENT", SONY LIV 2
+#EXTINF:0 group-title="LIVE EVENT", SONY LIV 2
 https://dai.google.com/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8
-#EXTINF:0, group-title="LIVE EVENT", SONY LIV 3 
+#EXTINF:0 group-title="LIVE EVENT", SONY LIV 3 
 https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8
-#EXTINF:0, group-title="LIVE EVENT", SONY LIV 4 
+#EXTINF:0 group-title="LIVE EVENT", SONY LIV 4 
 https://dai.google.com/ssai/event/FgOj57oiSEyp5FLaDUhRWA/master.m3u8
-#EXTINF:0, group-title="LIVE EVENT", SONY LIV 5 
+#EXTINF:0 group-title="LIVE EVENT", SONY LIV 5 
 https://dai.google.com/ssai/event/3b4sC3GDQiigmH7iMYfwTQ/master.m3u8
-#EXTINF:0, group-title="LIVE EVENT", SONY LIV 6 
+#EXTINF:0 group-title="LIVE EVENT", SONY LIV 6 
 https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8
-#EXTINF:0, group-title="LIVE EVENT", SONY LIV 7 
+#EXTINF:0 group-title="LIVE EVENT", SONY LIV 7 
 https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
-#EXTINF:0, group-title="LIVE EVENT", SONY LIV 8 
+#EXTINF:0 group-title="LIVE EVENT", SONY LIV 8 
 https://dai.google.com/linear/hls/event/HynNobMPSu6nQCgpxsK0lQ/master.m3u8
-#EXTINF:0, group-title="LIVE EVENT", SONY LIV 9 
+#EXTINF:0 group-title="LIVE EVENT", SONY LIV 9 
 https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
-#EXTINF:0, group-title="LIVE EVENT", SONY LIV 10 
+#EXTINF:0 group-title="LIVE EVENT", SONY LIV 10 
 https://dai.google.com/linear/hls/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8 
-#EXTINF:0, group-title="LIVE EVENT", SONY LIV 11 
+#EXTINF:0 group-title="LIVE EVENT", SONY LIV 11 
 https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
-#EXTINF:0, group-title="LIVE EVENT", SONY LIV 12 
+#EXTINF:0 group-title="LIVE EVENT", SONY LIV 12 
 https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8
-#EXTINF:0, group-title="LIVE EVENT", SONY LIV 13
+#EXTINF:0 group-title="LIVE EVENT", SONY LIV 13
 https://1rdk.short.gy/RASHEDANUOR2.m3u8
-#EXTINF:0, group-title="LIVE EVENT", SONY LIV 14
+#EXTINF:0 group-title="LIVE EVENT", SONY LIV 14
 https://1rdk.short.gy/RASHEDANUOR_ENG.m3u8
-#EXTINF:0, group-title="LIVE EVENT", SONY LIV 15
+#EXTINF:0 group-title="LIVE EVENT", SONY LIV 15
 https://1rdk.short.gy/Indvzm.m3u8
-#EXTINF:0,tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/atp_shanghai24_sf_djokovic_vs_fritz_landscape_thumb.jpg" group-title="LIVE EVENT ",novak djokovic vs taylor fritz sf 12 oct 2024
+#EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/atp_shanghai24_sf_djokovic_vs_fritz_landscape_thumb.jpg" group-title="LIVE EVENT ",novak djokovic vs taylor fritz sf 12 oct 2024
 https://dai.google.com/ssai/event/aTkvwKrNTOKIdVh-XZHRBg/master.m3u8
-#EXTINF:0, group title="LIVE EVENT", SONY LIV 16
+#EXTINF:0 group title="LIVE EVENT", SONY LIV 16
 https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8
 
 #EXTINF:-1 group-title="SPORT LIVE EVENTS🔰" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", Setanta Sports Event 1
