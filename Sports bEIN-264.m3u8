@@ -16,7 +16,7 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/o
 
 #EXTINF:-1, Arena Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 (Web0S; Linux/SmartTV) AppleWebKit/537.36
-#EXTVLCOPT:referer=https://viwlivehdplay.ru/
+#EXTVLCOPT:http-referer=https://viwlivehdplay.ru/
 https://asdfasdft.onlinehdhls.ru/lb/premium368/index.m3u8
 
 #EXTINF:-0, Gxr Real Madrid 
