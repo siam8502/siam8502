@@ -12,12 +12,13 @@ https://webhdrus.onlinehdhls.ru/lb/premium43/index.m3u8|Origin=https://qqwebplay
 
 #EXTINF:-1, TNT SPORTS 1
 #EXTVLCOPT:http-user-agent= Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 (Web0S; Linux/SmartTV) AppleWebKit/537.36
-https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd|Origin=https://qqwebplay.xyz
 
 #EXTINF:-1, Arena Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 (Web0S; Linux/SmartTV) AppleWebKit/537.36
-#EXTVLCOPT:http-referer=https://viwlivehdplay.ru/
-https://asdfasdft.onlinehdhls.ru/lb/premium368/index.m3u8
+#EXTVLCOPT:http-referrer=https://viwlivehdplay.ru/
+https://asdfasdft.onlinehdhls.ru/lb/premium368/index.m3u8|Origin=https://viwlivehdplay.ru/
 
 #EXTINF:-0, Gxr Real Madrid 
 https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8
