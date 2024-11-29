@@ -524,6 +524,61 @@ http://97.74.103.44:8089/load/nick_bangla/chunks.m3u8
 #EXTM3U
 https://raw.githubusercontent.com/byte-capsule/Toffee-Channels-Link-Headers/refs/heads/main/toffee_OTT_Navigator.m3u
 
+
+#EXTINF:0,Somoy TV
+https://ythls.armelin.one/channel/UCxHoBXkY88Tb8z1Ssj6CWsQ.m3u8
+#EXTINF:0,ATN News
+https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
+#EXTINF:0,CHANNEL 24
+https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+#EXTINF:0,DBC News
+https://ythls.armelin.one/channel/UCUvXoiDEKI8VZJrr58g4VAw.m3u8
+#EXTINF:0,Ekattor
+https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
+#EXTINF:0,Ekhon Tv
+https://ythls.armelin.one/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
+#EXTINF:0,DESH TV
+https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
+#EXTINF:0,R TV
+https://ythls.armelin.one/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
+#EXTINF:0,N TV
+https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
+#EXTINF:0,Tom and Jerry
+https://ythls.armelin.one/channel/UCmst562fALOY2cKb4IFgqEg.m3u8
+#EXTINF:0,Mr. Bean
+https://ythls.armelin.one/channel/UCEwIUtFBhaI2L2PuKv0KL2g.m3u8
+#EXTINF:0,Maasranga TV
+https://mhdtvplay.com/bdcast/hls/index.m3u8?id=f190c3dt&e=.m3u8
+#EXTINF:0,Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:0,Discovery Kids
+https://dplus.gammacdn.workers.dev/videos/113.m3u8
+#EXTINF:0,Amar-digital
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+#EXTINF:0,Mon-tv
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+#EXTINF:0,Al Jazeera News
+https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:0,Bhojpuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:0,DEEPTO TV HD
+https://byphdgllyk.gpcdn.net/hls/DeeptoTV/index.m3u8
+#EXTINF:0,Bangla
+𝙍 𝙏𝙑
+#EXTINF:0,https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/playlist.m3u8
+𝘿𝙚𝙚𝙥𝙩𝙤 𝙏𝙑
+#EXTINF:0,https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8?
+𝙈𝙊𝙑𝙄𝙀 𝘽𝘼𝙉𝙂𝙇𝘼
+#EXTINF:0,http://alvetv.com/moviebanglatv/8080/index.m3u8
+𝙈𝙔 𝙏𝙑
+#EXTINF:0,https://mytvbangla.com/0.m3u8
+𝙀𝙏𝙑 𝘽𝘼𝙉𝙂𝙇𝘼
+#EXTINF:0,http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+𝙎𝙤𝙣𝙮 𝘼𝘼𝙏𝙃
+#EXTINF:0,http://tv.cloudcdn.me/live.ts?channelId=44150&uid=13433&deviceMac=00:1A:79:00:97:A1
+𝗞𝗶𝗱𝘀 𝘾𝙍𝙀𝘼𝙏𝙄𝙊𝙉
+#EXTINF:0,https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-name="Astro SuperSport" tvg-logo="https://i.imgur.com/YqQIrY0.png" group-title="ASTRO",Astro SuperSport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
