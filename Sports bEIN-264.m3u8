@@ -19,6 +19,12 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/o
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 (Web0S; Linux/SmartTV) AppleWebKit/537.36
 #EXTVLCOPT:http-referrer=https://viwlivehdplay.ru/
 https://asdfasdft.onlinehdhls.ru/lb/premium368/index.m3u8|Origin=https://viwlivehdplay.ru/
+#EXTINF:0,Sports TV
+http://cty.familytv.co/TVB1241/index.mpd
+#EXTINF:0, ESPN
+http://cty.familytv.co/TVB1247/index.mpd
+#EXTINF:0,PREMIERE 
+http://cty.familytv.co/TVB1248/index.mpd
 
 #EXTINF:-0, Gxr Real Madrid 
 https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8
