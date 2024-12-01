@@ -255,10 +255,33 @@ http://gcp-dash.ngslbs.com/TVD021/index.mpd
 http://gcp-dash.ngslbs.com/TVD022/index.mpd
 #EXTINF:1,SKY Sports F1
 http://gcp-dash.ngslbs.com/TVD023/index.mpd
+#EXTINF:1,ESPN
+http://cty.familytv.co/TVB1247/index.mpd
+#EXTINF:1,ESPN 3
+http://cty.familytv.co/TVB1148/index.mpd
+#EXTINF:1,ESPN 4
+http://cty.familytv.co/TVB1141/index.mpd
+#EXTINF:1,ESPN 5
+http://cty.familytv.co/TVB1142/index.mpd
+#EXTINF:1,Dazn 1
+http://cty.familytv.co/TVB1230/index.mpd
+#EXTINF:1,Dazn 2
+http://cty.familytv.co/TVB1229/index.mpd
+#EXTINF:1,Dazn 3
+http://cty.familytv.co/TVB1228/index.mpd
+#EXTINF:1,Premiere 
+http://cty.familytv.co/TVB1079/index.mpd
+#EXTINF:1, Sportv
+http://cty.familytv.co/TVB1241/index.mpd
+#EXTINF:1,Sportv 2
+http://cty.familytv.co/TVB1104/index.mpd
+
+
 #EXTINF:1,SONY LIV
 https://key2.keylocking.ru/wmsxx.php?test=true&name=premium134&number=1
 #EXTM3U
 https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Github.m3u8
+
 
 #EXTINF:0,Канал 1
 https://fr.globalplay.live/Sports-1/index.fmp4.m3u8
