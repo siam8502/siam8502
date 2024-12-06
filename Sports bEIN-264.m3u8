@@ -208,7 +208,8 @@ http://gcp-dash.ngslbs.com/TVD4078/index.mpd
 #EXTINF:1,COSMOTE SPORTS hd
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31588/index.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novasports1.gr" tvg-name="novasport.gr" tvg-logo="https://i.postimg.cc/XvBrvCp0/20240114-104445.png" group-title="CHANNEL | SPORTS",Nova Sport 1 
-
+#EXTINF:1,SPORTS 18 
+https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/index.m3u8
 #EXTINF:1,DIGI SPORT 1
 http://45.90.106.98/digisport1/index.m3u8
 #EXTINF:1,DIGI SPORT 2
@@ -232,38 +233,52 @@ https://key2.keylocking.ru/wmsxx.php?test=true&name=premium134&number=1
 https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u
 #EXTINF:1,TNT SPORTS 1
 http://gcp-dash.ngslbs.com/TVD001/index.mpd
+https://gcf.nrslist.com/TVD001/index.mpd
 #EXTINF:1,TNT SPORTS 2
 http://gcp-dash.ngslbs.com/TVD002/index.mpd
+https://gcf.nrslist.com/TVD002/index.mpd
 #EXTINF:1,TNT SPORTS 3
 http://gcp-dash.ngslbs.com/TVD003/index.mpd
+https://gcf.nrslist.com/TVD003/index.mpd
 #EXTINF:1,TNT SPORTS 4
+https://gcf.nrslist.com/TVD004/index.mpd
 http://gcp-dash.ngslbs.com/TVD004/index.mpd
 #EXTINF:1,TNT SPORTS 5
 http://gcp-dash.ngslbs.com/TVD005/index.mpd
+https://gcf.nrslist.com/TVD005/index.mpd
 #EXTINF:1,SKY SPORTS CRICKET 
 http://gcp-dash.ngslbs.com/TVD024/index.mpd
-
+https://gcf.nrslist.com/TVD024/index.mpd
 #EXTINF:1,SKY SPORTS NFL
 http://gcp-dash.ngslbs.com/TVD015/index.mpd
+https://gcf.nrslist.com/TVD015/index.mpd
 #EXTINF:1,SKY SPORTS GOLF
 http://gcp-dash.ngslbs.com/TVD016/index.mpd
+https://gcf.nrslist.com/TVD016/index.mpd
 #EXTINF:1,SKY SPORTS FOOTBALL 
 http://gcp-dash.ngslbs.com/TVD017/index.mpd
+https://gcf.nrslist.com/TVD016/index.mpd
 #EXTINF:1,SKY 1
 http://gcp-dash.ngslbs.com/TVD018/index.mpd
+https://gcf.nrslist.com/TVD018/index.mpd
 #EXTINF:1,SKY 2
 http://gcp-dash.ngslbs.com/TVD019/index.mpd
+https://gcf.nrslist.com/TVD019/index.mpd
 #EXTINF:1,SKY 3
 http://gcp-dash.ngslbs.com/TVD019/index.mpd
+https://gcf.nrslist.com/TVD019/index.mpd
 #EXTINF:1,SKY 4
 http://gcp-dash.ngslbs.com/TVD020/index.mpd
-
+https://gcf.nrslist.com/TVD020/index.mpd
 #EXTINF:1,SKY news 
 http://gcp-dash.ngslbs.com/TVD021/index.mpd
+https://gcf.nrslist.com/TVD021/index.mpd
 #EXTINF:1,SKY Sports Mix
 http://gcp-dash.ngslbs.com/TVD022/index.mpd
+https://gcf.nrslist.com/TVD022/index.mpd
 #EXTINF:1,SKY Sports F1
 http://gcp-dash.ngslbs.com/TVD023/index.mpd
+https://gcf.nrslist.com/TVD023/index.mpd
 #EXTINF:1,ESPN
 http://cty.familytv.co/TVB1247/index.mpd
 #EXTINF:1,ESPN 3
@@ -290,127 +305,5 @@ http://cty.familytv.co/TVB1104/index.mpd
 https://key2.keylocking.ru/wmsxx.php?test=true&name=premium134&number=1
 #EXTM3U
 https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Github.m3u8
-
-
-#EXTINF:0,Канал 1
-https://fr.globalplay.live/Sports-1/index.fmp4.m3u8
-#EXTINF:0,Канал 2
-https://fr.globalplay.live/Sports-2/index.fmp4.m3u8
-#EXTINF:0,Канал 3
-https://fr.globalplay.live/Sports-3/index.fmp4.m3u8
-#EXTINF:0,Канал 4
-https://fr.globalplay.live/Sports-4/index.fmp4.m3u8
-#EXTINF:0,Канал 5
-https://fr.globalplay.live/Sports-5/index.fmp4.m3u8
-#EXTINF:0,Канал 6
-https://fr.globalplay.live/Sports-6/index.fmp4.m3u8
-#EXTINF:0,Канал 7
-https://fr.globalplay.live/Sports-7/index.fmp4.m3u8
-#EXTINF:0,Канал 8
-https://fr.globalplay.live/Sports-8/index.fmp4.m3u8
-#EXTINF:0,Канал 9
-https://fr.globalplay.live/Sports-9/index.fmp4.m3u8
-#EXTINF:0,Канал 10
-https://fr.globalplay.live/Sports-10/index.fmp4.m3u8
-#EXTINF:0,Канал 11
-https://fr.globalplay.live/Sports-11/index.fmp4.m3u8
-#EXTINF:0,Канал 12
-https://fr.globalplay.live/Sports-12/index.fmp4.m3u8
-#EXTINF:0,Канал 13
-https://fr.globalplay.live/Sports-13/index.fmp4.m3u8
-#EXTINF:0,Канал 14
-https://fr.globalplay.live/Sports-14/index.fmp4.m3u8
-#EXTINF:0,Канал 15
-https://fr.globalplay.live/Sports-15/index.fmp4.m3u8
-#EXTINF:0,Канал 16
-https://fr.globalplay.live/Sports-16/index.fmp4.m3u8
-#EXTINF:0,Канал 17
-https://fr.globalplay.live/Sports-17/index.fmp4.m3u8
-#EXTINF:0,Канал 18
-https://fr.globalplay.live/Sports-18/index.fmp4.m3u8
-#EXTINF:0,Канал 19
-https://fr.globalplay.live/Sports-19/index.fmp4.m3u8
-#EXTINF:0,Канал 20
-https://fr.globalplay.live/Sports-20/index.fmp4.m3u8
-#EXTINF:0,Канал 21
-https://fr.globalplay.live/Sports-21/index.fmp4.m3u8
-#EXTINF:0,Канал 22
-https://fr.globalplay.live/Sports-22/index.fmp4.m3u8
-#EXTINF:0,Канал 23
-https://fr.globalplay.live/Sports-23/index.fmp4.m3u8
-#EXTINF:0,Канал 24
-https://fr.globalplay.live/Sports-24/index.fmp4.m3u8
-#EXTINF:0,Канал 25
-https://fr.globalplay.live/Sports-25/index.fmp4.m3u8
-#EXTINF:0,Канал 26
-https://fr.globalplay.live/Sports-26/index.fmp4.m3u8
-#EXTINF:0,Канал 27
-https://fr.globalplay.live/Sports-27/index.fmp4.m3u8
-#EXTINF:0,Канал 28
-https://fr.globalplay.live/Sports-28/index.fmp4.m3u8
-#EXTINF:0,Канал 29
-https://fr.globalplay.live/Sports-29/index.fmp4.m3u8
-#EXTINF:0,Канал 30
-https://fr.globalplay.live/Sports-30/index.fmp4.m3u8
-#EXTINF:0,Канал 31
-https://fr.globalplay.live/Sports-31/index.fmp4.m3u8
-#EXTINF:0,Канал 32
-https://fr.globalplay.live/Sports-32/index.fmp4.m3u8
-#EXTINF:0,Канал 33
-https://fr.globalplay.live/Sports-33/index.fmp4.m3u8
-#EXTINF:0,Канал 34
-https://fr.globalplay.live/Sports-34/index.fmp4.m3u8
-#EXTINF:0,Канал 35
-https://fr.globalplay.live/Sports-35/index.fmp4.m3u8
-#EXTINF:0,Канал 36
-https://fr.globalplay.live/Sports-36/index.fmp4.m3u8
-#EXTINF:0,Канал 37
-https://fr.globalplay.live/Sports-37/index.fmp4.m3u8
-#EXTINF:0,Канал 38
-https://fr.globalplay.live/Sports-38/index.fmp4.m3u8
-#EXTINF:0,Канал 39
-https://fr.globalplay.live/Sports-39/index.fmp4.m3u8
-#EXTINF:0,Канал 40
-https://fr.globalplay.live/Sports-40/index.fmp4.m3u8
-#EXTINF:0,Канал 41
-https://fr.globalplay.live/Sports-41/index.fmp4.m3u8
-#EXTINF:0,Канал 42
-https://fr.globalplay.live/Sports-42/index.fmp4.m3u8
-#EXTINF:0,Канал 43
-https://fr.globalplay.live/Sports-43/index.fmp4.m3u8
-#EXTINF:0,Канал 44
-https://fr.globalplay.live/Sports-44/index.fmp4.m3u8
-#EXTINF:0,Канал 45
-https://fr.globalplay.live/Sports-45/index.fmp4.m3u8
-#EXTINF:0,Канал 46
-https://fr.globalplay.live/Sports-46/index.fmp4.m3u8
-#EXTINF:0,Канал 47
-https://fr.globalplay.live/Sports-47/index.fmp4.m3u8
-#EXTINF:0,Канал 48
-https://fr.globalplay.live/Sports-48/index.fmp4.m3u8
-#EXTINF:0,Канал 49
-https://fr.globalplay.live/Sports-49/index.fmp4.m3u8
-#EXTINF:0,Канал 50
-https://fr.globalplay.live/Sports-50/index.fmp4.m3u8
-#EXTINF:0,Канал 51
-https://fr.globalplay.live/Sports-51/index.fmp4.m3u8
-#EXTINF:0,Канал 52
-https://fr.globalplay.live/Sports-52/index.fmp4.m3u8
-#EXTINF:0,Канал 53
-https://fr.globalplay.live/Sports-53/index.fmp4.m3u8
-#EXTINF:0,Канал 54
-https://fr.globalplay.live/Sports-54/index.fmp4.m3u8
-#EXTINF:0,Канал 55
-https://fr.globalplay.live/Sports-55/index.fmp4.m3u8
-#EXTINF:0,Канал 56
-https://fr.globalplay.live/Sports-56/index.fmp4.m3u8
-#EXTINF:0,Канал 57
-https://fr.globalplay.live/Sports-57/index.fmp4.m3u8
-#EXTINF:0,Канал 58
-https://fr.globalplay.live/Sports-58/index.fmp4.m3u8
-#EXTINF:0,Канал 59
-https://fr.globalplay.live/Sports-59/index.fmp4.m3u8
-#EXTINF:0,Канал 60
-https://fr.globalplay.live/Sports-60/index.fmp4.m3u8
 
 
