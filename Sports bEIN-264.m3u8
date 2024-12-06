@@ -232,31 +232,22 @@ https://key2.keylocking.ru/wmsxx.php?test=true&name=premium134&number=1
 #EXTM3U
 https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u
 #EXTINF:1,TNT SPORTS 1
-http://gcp-dash.ngslbs.com/TVD001/index.mpd
 https://gcf.nrslist.com/TVD001/index.mpd
 #EXTINF:1,TNT SPORTS 2
-http://gcp-dash.ngslbs.com/TVD002/index.mpd
 https://gcf.nrslist.com/TVD002/index.mpd
 #EXTINF:1,TNT SPORTS 3
-http://gcp-dash.ngslbs.com/TVD003/index.mpd
 https://gcf.nrslist.com/TVD003/index.mpd
 #EXTINF:1,TNT SPORTS 4
 https://gcf.nrslist.com/TVD004/index.mpd
-http://gcp-dash.ngslbs.com/TVD004/index.mpd
 #EXTINF:1,TNT SPORTS 5
-http://gcp-dash.ngslbs.com/TVD005/index.mpd
 https://gcf.nrslist.com/TVD005/index.mpd
 #EXTINF:1,SKY SPORTS CRICKET 
-http://gcp-dash.ngslbs.com/TVD024/index.mpd
 https://gcf.nrslist.com/TVD024/index.mpd
 #EXTINF:1,SKY SPORTS NFL
-http://gcp-dash.ngslbs.com/TVD015/index.mpd
 https://gcf.nrslist.com/TVD015/index.mpd
 #EXTINF:1,SKY SPORTS GOLF
-http://gcp-dash.ngslbs.com/TVD016/index.mpd
 https://gcf.nrslist.com/TVD016/index.mpd
 #EXTINF:1,SKY SPORTS FOOTBALL 
-http://gcp-dash.ngslbs.com/TVD017/index.mpd
 https://gcf.nrslist.com/TVD016/index.mpd
 #EXTINF:1,SKY 1
 http://gcp-dash.ngslbs.com/TVD018/index.mpd
@@ -274,7 +265,6 @@ https://gcf.nrslist.com/TVD020/index.mpd
 http://gcp-dash.ngslbs.com/TVD021/index.mpd
 https://gcf.nrslist.com/TVD021/index.mpd
 #EXTINF:1,SKY Sports Mix
-http://gcp-dash.ngslbs.com/TVD022/index.mpd
 https://gcf.nrslist.com/TVD022/index.mpd
 #EXTINF:1,SKY Sports F1
 http://gcp-dash.ngslbs.com/TVD023/index.mpd
