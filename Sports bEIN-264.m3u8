@@ -124,36 +124,35 @@ http://103.175.242.10:8080/foxcricekt/mono.m3u8
 #EXTINF:-1,RTA SPORTS 
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:1, Bein Sports 1 
-http://gcp-dash.ngslbs.com/TVD4001/index.mpd
+https://gcf.nrslist.com/TVD4001/index.mpd
 #EXTINF:1,BEIN SPORTS 2
-http://gcp-dash.ngslbs.com/TVD4002/index.mpd
+https://gcf.nrslist.com/TVD4002/index.mpd
 #EXTINF:1, BEIN SPORTS 3
-http://gcp-dash.ngslbs.com/TVD4003/index.mpd
+https://gcf.nrslist.com/TVD4003/index.mpd
 #EXTINF:1, BEIN SPORTS 4
-http://gcp-dash.ngslbs.com/TVD4004/index.mpd
+https://gcf.nrslist.com/TVD4004/index.mpd
 #EXTINF:1, BEIN SPORTS 5
-http://gcp-dash.ngslbs.com/TVD4005/index.mpd
+https://gcf.nrslist.com/TVD4005/index.mpd
 #EXTINF:1, BEIN SPORTS 6
-http://gcp-dash.ngslbs.com/TVD4006/index.mpd
+https://gcf.nrslist.com/TVD4006/index.mpd
 #EXTINF:1, BEIN SPORTS 7
-http://gcp-dash.ngslbs.com/TVD4007/index.mpd
+https://gcf.nrslist.com/TVD4007/index.mpd
 #EXTINF:1, BEIN SPORTS 8
-http://gcp-dash.ngslbs.com/TVD4062/index.mpd
+https://gcf.nrslist.com/TVD4008/index.mpd
 #EXTINF:1, BEIN SPORTS 9
-http://gcp-dash.ngslbs.com/TVD4063/index.mpd
+https://gcf.nrslist.com/TVD4009/index.mpd
 #EXTINF:1, BEIN SPORTS ENGLISH 1
-http://gcp-dash.ngslbs.com/TVD4011/index.mpd
+https://gcf.nrslist.com/TVD4011/index.mpd
 #EXTINF:1, BEIN SPORTS ENGLISH 2
-http://gcp-dash.ngslbs.com/TVD4012/index.mpd
+https://gcf.nrslist.com/TVD4012/index.mpd
 #EXTINF:1, BEIN SPORTS ENGLISH 3
-http://gcp-dash.ngslbs.com/TVD4013/index.mpd
+https://gcf.nrslist.com/TVD4013/index.mpd
 #EXTINF:1, BEIN SPORTS AFC 1
-http://gcp-dash.ngslbs.com/TVD4064/index.mpd
+https://gcf.nrslist.com/TVD4064/index.mpd
 #EXTINF:1, BEIN SPORTS AFC 2
-http://gcp-dash.ngslbs.com/TVD4065/index.mpd
+https://gcf.nrslist.com/TVD4065/index.mpd
 #EXTINF:1, BEIN SPORTS LIVE 1
-http://gcp-dash.ngslbs.com/TVD4054/index.mpd
-
+https://gcf.nrslist.com/TVD4066/index.mpd
 #EXTINF:1,ARENA SPORTS 1
 https://f77zvuxbr89.a.trbcdn.net/reserv11/index.m3u8
 
