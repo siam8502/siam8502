@@ -187,26 +187,25 @@ http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31600/index.m3u8
 #EXTINF:1,ARENA SPORTS PREMIUM 3 
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31601/index.m3u8
 #EXTINF:1,COSMOTE SPORTS 1
-http://gcp-dash.ngslbs.com/TVD4070/index.mpd
+https://gcf.nrslist.com/TVD4070/index.mpd
 #EXTINF:1,COSMOTE SPORTS 2
-http://gcp-dash.ngslbs.com/TVD4071/index.mpd
+https://gcf.nrslist.com/TVD4071/index.mpd
 #EXTINF:1,COSMOTE SPORTS 3
-http://gcp-dash.ngslbs.com/TVD4072/index.mpd
+https://gcf.nrslist.com/TVD4072/index.mpd
 #EXTINF:1,COSMOTE SPORTS 4
-http://gcp-dash.ngslbs.com/TVD4073/index.mpd
+https://gcf.nrslist.com/TVD4073/index.mpd
 #EXTINF:1,COSMOTE SPORTS 5
-http://gcp-dash.ngslbs.com/TVD4074/index.mpd
+https://gcf.nrslist.com/TVD4074/index.mpd
 #EXTINF:1,COSMOTE SPORTS 6
-http://gcp-dash.ngslbs.com/TVD4075/index.mpd
+https://gcf.nrslist.com/TVD4075/index.mpd
 #EXTINF:1,COSMOTE SPORTS 7
-http://gcp-dash.ngslbs.com/TVD4076/index.mpd
+https://gcf.nrslist.com/TVD4076/index.mpd
 #EXTINF:1,COSMOTE SPORTS 8
-http://gcp-dash.ngslbs.com/TVD4077/index.mpd
+https://gcf.nrslist.com/TVD4077/index.mpd
 #EXTINF:1,COSMOTE SPORTS 9
-http://gcp-dash.ngslbs.com/TVD4078/index.mpd
+https://gcf.nrslist.com/TVD4078/index.mpd
 #EXTINF:1,COSMOTE SPORTS hd
 http://qbczh9gw.russtv.net/iptv/BAKPC3UUA8D68QRV3R9LXHM6/31588/index.m3u8
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novasports1.gr" tvg-name="novasport.gr" tvg-logo="https://i.postimg.cc/XvBrvCp0/20240114-104445.png" group-title="CHANNEL | SPORTS",Nova Sport 1 
 #EXTINF:1,SPORTS 18 
 https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/index.m3u8
 #EXTINF:1,DIGI SPORT 1
