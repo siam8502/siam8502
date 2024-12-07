@@ -11,7 +11,18 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/o
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
-
+#EXTINF:-1,PEACOCK 1
+https://fs.qwertyisaddictedtodxm.pw/event1-peacock/index.m3u8
+#EXTINF:-1,PEACOCK 2
+https://fs.qwertyisaddictedtodxm.pw/event2-peacock/index.m3u8
+#EXTINF:-1,PEACOCK 3
+https://fs.qwertyisaddictedtodxm.pw/event3-peacock/index.m3u8
+#EXTINF:-1,PEACOCK 4
+https://fs.qwertyisaddictedtodxm.pw/event4-peacock/index.m3u8
+#EXTINF:-1,PEACOCK 5
+https://fs.qwertyisaddictedtodxm.pw/event5-peacock/index.m3u8
+#EXTINF:-1,PEACOCK 6
+https://fs.qwertyisaddictedtodxm.pw/event6-peacock/index.m3u8
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport1.nz" tvg-name="NZ: SKY SPORT 1 FHD" tvg-logo="https://i.ibb.co/X2NMJ9h/Skysport1.png" group-title="13.SPORT",Sky Sport 01
