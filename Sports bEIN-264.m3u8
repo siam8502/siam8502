@@ -253,6 +253,8 @@ https://gcf.nrslist.com/TVD004/index.mpd
 https://gcf.nrslist.com/TVD005/index.mpd
 #EXTINF:1,SKY SPORTS CRICKET 
 https://gcf.nrslist.com/TVD024/index.mpd
+#EXTINF:-1,SKY SPORTS MAIN EVENT 
+https://gcf.nrslist.com/TVD043/index.mpd
 #EXTINF:1,SKY SPORTS NFL
 https://gcf.nrslist.com/TVD015/index.mpd
 #EXTINF:1,SKY SPORTS GOLF
