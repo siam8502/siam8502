@@ -282,15 +282,15 @@ https://gcf.nrslist.com/TVD022/index.mpd
 http://gcp-dash.ngslbs.com/TVD023/index.mpd
 https://gcf.nrslist.com/TVD023/index.mpd
 #EXTINF:1,ESPN
-http://cty.familytv.co/TVB1247/index.mpd
+http://bbb.g9cap.com/TVB1247/index.mpd
 #EXTINF:1,ESPN 3
-http://cty.familytv.co/TVB1148/index.mpd
+http://bbb.g9cap.com/TVB1248/index.mpd
 #EXTINF:1,ESPN 4
-http://cty.familytv.co/TVB1141/index.mpd
+http://bbb.g9cap.com/TVB1141/index.mpd
 #EXTINF:1,ESPN 5
-http://cty.familytv.co/TVB1142/index.mpd
+http://bbb.g9cap.com/TVB1142/index.mpd
 #EXTINF:1,Dazn 1
-http://cty.familytv.co/TVB1230/index.mpd
+http://bbb.g9cap.com/TVB1230/index.mpd
 #EXTINF:1,Dazn 2
 http://cty.familytv.co/TVB1229/index.mpd
 #EXTINF:1,Dazn 3
@@ -298,7 +298,7 @@ http://cty.familytv.co/TVB1228/index.mpd
 #EXTINF:1,Premiere 
 http://cty.familytv.co/TVB1079/index.mpd
 #EXTINF:1, Sportv
-http://cty.familytv.co/TVB1241/index.mpd
+http://bbb.g9cap.com/TVB1241/index.mpd
 #EXTINF:1,Sportv 2
 http://cty.familytv.co/TVB1104/index.mpd
 
@@ -307,5 +307,26 @@ http://cty.familytv.co/TVB1104/index.mpd
 https://key2.keylocking.ru/wmsxx.php?test=true&name=premium134&number=1
 #EXTM3U
 https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Github.m3u8
+#EXTINF:-1,PARAMOUNT+1
+https://fs.fscdn.fun/event1-prime/index.m3u8
+#EXTINF:-1,PARAMOUNT+2
+https://fs.fscdn.fun/event2-prime/index.m3u8
+#EXTINF:-1,PARAMOUNT+3
+https://fs.fscdn.fun/event3-prime/index.m3u8
+#EXTINF:-1,PARAMOUNT+4
+https://fs.fscdn.fun/event4-prime/index.m3u8
 
-
+#EXTINF:-1,PARAMOUNT+5
+https://fs.fscdn.fun/event5-prime/index.m3u8
+#EXTINF:-1,PARAMOUNT+6
+https://fs.fscdn.fun/event6-prime/index.m3u8
+#EXTINF:-1,PARAMOUNT+7
+https://fs.fscdn.fun/event7-prime/index.m3u8
+#EXTINF:-1,PARAMOUNT+8
+https://fs.fscdn.fun/event8-prime/index.m3u8
+#EXTINF:-1,PARAMOUNT+9
+https://fs.fscdn.fun/event9-prime/index.m3u8
+#EXTINF:-1,PARAMOUNT+10
+https://fs.fscdn.fun/event10-prime/index.m3u8
+#EXTINF:-1,CBS SPORTS 
+https://fs.anonup.net/event3-prime/index.m3u8
