@@ -243,16 +243,28 @@ https://key2.keylocking.ru/wmsxx.php?test=true&name=premium134&number=1
 https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u
 #EXTINF:1,TNT SPORTS 1
 https://gcf.nrslist.com/TVD001/index.mpd
+https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_1/index.m3u8?googlekey=06a44abd6596c12dcc68a857b9b0c3990a3fbafe9a147aa7337aca47d36df9a7&active=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e&keyhash=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e
+https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_1_BU/index.m3u8?googlekey=7e6066beaaba041f04c5ac7bbaa6c1777d1981d2d8f445439001c005ee2b0c08&active=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e&keyhash=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e
 #EXTINF:1,TNT SPORTS 2
 https://gcf.nrslist.com/TVD002/index.mpd
+https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_2/index.m3u8?googlekey=06a44abd6596c12dcc68a857b9b0c3990a3fbafe9a147aa7337aca47d36df9a7&active=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e&keyhash=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e
+https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_2_BU/index.m3u8?googlekey=7e6066beaaba041f04c5ac7bbaa6c1777d1981d2d8f445439001c005ee2b0c08&active=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e&keyhash=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e
 #EXTINF:1,TNT SPORTS 3
 https://gcf.nrslist.com/TVD003/index.mpd
+https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_3/index.m3u8?googlekey=06a44abd6596c12dcc68a857b9b0c3990a3fbafe9a147aa7337aca47d36df9a7&active=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e&keyhash=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e
+https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_3_BU/index.m3u8?googlekey=7e6066beaaba041f04c5ac7bbaa6c1777d1981d2d8f445439001c005ee2b0c08&active=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e&keyhash=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e
 #EXTINF:1,TNT SPORTS 4
 https://gcf.nrslist.com/TVD004/index.mpd
+https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_4/index.m3u8?googlekey=06a44abd6596c12dcc68a857b9b0c3990a3fbafe9a147aa7337aca47d36df9a7&active=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e&keyhash=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e
+https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_4_BU/index.m3u8?googlekey=7e6066beaaba041f04c5ac7bbaa6c1777d1981d2d8f445439001c005ee2b0c08&active=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e&keyhash=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e
 #EXTINF:1,TNT SPORTS 5
 https://gcf.nrslist.com/TVD005/index.mpd
+https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_4/index.m3u8?googlekey=06a44abd6596c12dcc68a857b9b0c3990a3fbafe9a147aa7337aca47d36df9a7&active=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e&keyhash=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e
+https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_5_BU/index.m3u8?googlekey=7e6066beaaba041f04c5ac7bbaa6c1777d1981d2d8f445439001c005ee2b0c08&active=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e&keyhash=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e
+
 #EXTINF:1,SKY SPORTS CRICKET 
 https://gcf.nrslist.com/TVD024/index.mpd
+https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Cricket_Live_TV/index.m3u8?googlekey=fa0f1df0a855c496b6e7fd3944204aceefeff588a30a78b0f2b979c38314fca6&active=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e&keyhash=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e
 #EXTINF:-1,SKY SPORTS MAIN EVENT 
 https://gcf.nrslist.com/TVD043/index.mpd
 #EXTINF:1,SKY SPORTS NFL
