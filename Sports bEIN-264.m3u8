@@ -267,15 +267,53 @@ https://gcf.nrslist.com/TVD024/index.mpd
 https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Cricket_Live_TV/index.m3u8?googlekey=fa0f1df0a855c496b6e7fd3944204aceefeff588a30a78b0f2b979c38314fca6&active=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e&keyhash=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e
 #EXTINF:-1,SKY SPORTS MAIN EVENT 
 https://gcf.nrslist.com/TVD043/index.mpd
+https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Main_Event/index.m3u8?googlekey=f4feaa0ef99ed7b7b7917473ff2b04031afbf18c7b784c1152bf64a8b380408f&active=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26&keyhash=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26
+https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Main_Event_BU/index.m3u8?googlekey=fef3b275927397b6d9ad4376df9f9bc64f3149f1364269ce4690b5ef8d6e76cd&active=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26&keyhash=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26
 #EXTINF:1,SKY SPORTS NFL
 https://gcf.nrslist.com/TVD015/index.mpd
 #EXTINF:1,SKY SPORTS GOLF
 https://gcf.nrslist.com/TVD016/index.mpd
 #EXTINF:1,SKY SPORTS FOOTBALL 
 https://gcf.nrslist.com/TVD016/index.mpd
-#EXTINF:1,SKY 1
+https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Football_Live_TV/index.m3u8?googlekey=a004a508df750b813eb3fd8623059a5eb630e60f70e86e97301f7871c0746e2b&active=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26&keyhash=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26
+https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Football_BU/index.m3u8?googlekey=e0e6869d122725f01463b5e09fbd6235366f4a64cf20249cd19cbe8c1638ada9&active=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26&keyhash=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26
+#EXTINF:1,SKY PL
 http://gcp-dash.ngslbs.com/TVD018/index.mpd
+https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Premier_League/index.m3u8?googlekey=2bd975f1e3ce6c4be6d07a64ccba51beefbb174bf672edb156fe4a819bbc1e21&active=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26&keyhash=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26
+https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Premier_League_BU/index.m3u8?googlekey=2bd975f1e3ce6c4be6d07a64ccba51beefbb174bf672edb156fe4a819bbc1e21&active=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26&keyhash=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26
 https://gcf.nrslist.com/TVD018/index.mpd
+#EXTINF:-1,LALIGA TV
+https://rr2---sn-npoe23nsr.creativehub.sbs/La_Liga_TV_Live_TV/index.m3u8?googlekey=49f8bb8a0c7ee02187d4baaf9bc17f3d6f0533a9f77de6478690b034dbdfe874&active=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26&keyhash=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26
+#EXTINF:1,SKY Sports Mix
+https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Mix_Live_TV/index.m3u8?googlekey=c01be1a894f0b9ec4fc52665fc7457543b03c89752d392892b7089b37dd0ef3c&active=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26&keyhash=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26
+https://gcf.nrslist.com/TVD022/index.mpd
+#EXTINF:1,SKY Sports +
+https://rr2---sn-npoe23nsr.creativehub.sbs/DAZN_Live_TV/index.m3u8?googlekey=812b1d74555983d595a7d34f753dfc7b013ab81592c5d77eefd643f2042153a9&active=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26&keyhash=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26
+#EXTINF:1,SUPER SPORT PL
+https://rr2---sn-npoe23nsr.creativehub.sbs/SuperSport_Premier_League_Live_TV/index.m3u8?googlekey=098a6209c427810842da2b6f715eda0f18d41195166b912a457a95eb4b075032&active=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26&keyhash=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26
+#EXTINF:1,SUPER SPORT LALIGA
+https://rr2---sn-npoe23nsr.creativehub.sbs/SuperSport_LaLiga_Live_TV/index.m3u8?googlekey=69ccf2af41b4c25a7a444393e24061d9859fdeed6db44de7fb9d39a33bb1ba53&active=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26&keyhash=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26
+#EXTINF:1,SUPER SPORT CRICKET 
+https://rr2---sn-npoe23nsr.creativehub.sbs/SuperSport_Cricket_Live_TV/index.m3u8?googlekey=69ccf2af41b4c25a7a444393e24061d9859fdeed6db44de7fb9d39a33bb1ba53&active=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26&keyhash=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26
+#EXTINF:1,SUPER SPORT FOOTBALL 
+https://rr2---sn-npoe23nsr.creativehub.sbs/SuperSport_Football_Live_TV/index.m3u8?googlekey=69ccf2af41b4c25a7a444393e24061d9859fdeed6db44de7fb9d39a33bb1ba53&active=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26&keyhash=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26
+#EXTINF:1,PREMIER SPORTS 1
+https://rr2---sn-npoe23nsr.creativehub.sbs/Premier_Sports_1/index.m3u8?googlekey=5b47d4798423fcc2beb351cbc2468df12584842879a487f697c4fd1b934a7028&active=fc0b20c7d07c27958c06a159aa59e1d53e4c77d49791a87870556f96c72ef9ea&keyhash=fc0b20c7d07c27958c06a159aa59e1d53e4c77d49791a87870556f96c72ef9ea
+#EXTINF:1,PREMIER SPORTS 2
+https://rr2---sn-npoe23nsr.creativehub.sbs/Premier_Sports_2/index.m3u8?googlekey=5b47d4798423fcc2beb351cbc2468df12584842879a487f697c4fd1b934a7028&active=fc0b20c7d07c27958c06a159aa59e1d53e4c77d49791a87870556f96c72ef9ea&keyhash=fc0b20c7d07c27958c06a159aa59e1d53e4c77d49791a87870556f96c72ef9ea
+#EXTINF:1,WILLOW CRICKET
+https://rr2---sn-npoe23nsr.creativehub.sbs/Willow_Cricket_Live_TV/index.m3u8?googlekey=80e8f250d7ce4d54afe51cabd5b68f31cef03c35006eba3933bc78f1e0894d65&active=fc0b20c7d07c27958c06a159aa59e1d53e4c77d49791a87870556f96c72ef9ea&keyhash=fc0b20c7d07c27958c06a159aa59e1d53e4c77d49791a87870556f96c72ef9ea
+#EXTINF:1,WILLOW EXTRA
+https://rr2---sn-npoe23nsr.creativehub.sbs/Willow_Extra_Live_TV/index.m3u8?googlekey=89e5c1b89d8e4471cc7c0b5e3ff587a9a44cca8a51f02c5d8ce794cd2ffc220d&active=fc0b20c7d07c27958c06a159aa59e1d53e4c77d49791a87870556f96c72ef9ea&keyhash=fc0b20c7d07c27958c06a159aa59e1d53e4c77d49791a87870556f96c72ef9ea
+#EXTINF:1,ESPN
+http://bbb.g9cap.com/TVB1247/index.mpd
+https://rr2---sn-npoe23nsr.creativehub.sbs/ESPN_Live_TV/index.m3u8?googlekey=a98d86b2c3a6ee19988cf484b284ec475655e4b23a20560d7fe7202bba554dd7&active=fc0b20c7d07c27958c06a159aa59e1d53e4c77d49791a87870556f96c72ef9ea&keyhash=fc0b20c7d07c27958c06a159aa59e1d53e4c77d49791a87870556f96c72ef9ea
+#EXTINF:1,ESPN 2
+http://bbb.g9cap.com/TVB1248/index.mpd
+https://rr2---sn-npoe23nsr.creativehub.sbs/ESPN_2_Live_TV/index.m3u8?googlekey=e1f468a5366a60fb1b5fa00af34e3a9d4a94a0a427009ddedaaa58d5c66eddbd&active=fc0b20c7d07c27958c06a159aa59e1d53e4c77d49791a87870556f96c72ef9ea&keyhash=fc0b20c7d07c27958c06a159aa59e1d53e4c77d49791a87870556f96c72ef9ea
+#EXTINF:1,CBS SPORTS NETWORK 
+https://rr2---sn-npoe23nsr.creativehub.sbs/CBS_Sports_Network_Live_TV/index.m3u8?googlekey=c132061353dd75497b844ddfa5381675820e531000d3c9376f70ecd806359192&active=fc0b20c7d07c27958c06a159aa59e1d53e4c77d49791a87870556f96c72ef9ea&keyhash=fc0b20c7d07c27958c06a159aa59e1d53e4c77d49791a87870556f96c72ef9ea
+
 #EXTINF:1,SKY 2
 http://gcp-dash.ngslbs.com/TVD019/index.mpd
 https://gcf.nrslist.com/TVD019/index.mpd
@@ -288,15 +326,9 @@ https://gcf.nrslist.com/TVD020/index.mpd
 #EXTINF:1,SKY news 
 http://gcp-dash.ngslbs.com/TVD021/index.mpd
 https://gcf.nrslist.com/TVD021/index.mpd
-#EXTINF:1,SKY Sports Mix
-https://gcf.nrslist.com/TVD022/index.mpd
 #EXTINF:1,SKY Sports F1
 http://gcp-dash.ngslbs.com/TVD023/index.mpd
 https://gcf.nrslist.com/TVD023/index.mpd
-#EXTINF:1,ESPN
-http://bbb.g9cap.com/TVB1247/index.mpd
-#EXTINF:1,ESPN 3
-http://bbb.g9cap.com/TVB1248/index.mpd
 #EXTINF:1,ESPN 4
 http://bbb.g9cap.com/TVB1141/index.mpd
 #EXTINF:1,ESPN 5
