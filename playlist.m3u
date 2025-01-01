@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:-1,TNT SPORTS 1 HD
+https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_1/tracks-v1a1/mono.ts.m3u8?active=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e&googlekey=8cd797aed211503241d2a4725440cc21226e66441fb48a24f89c49233622a95f&keyhash=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e
+#EXTINF:-1,TNT SPORTS 2 HD
+https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_2/tracks-v1a1/mono.ts.m3u8?active=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e&googlekey=8cd797aed211503241d2a4725440cc21226e66441fb48a24f89c49233622a95f&keyhash=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e
+#EXTINF:-1,TNT SPORTS 3 HD
+https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_3/tracks-v1a1/mono.ts.m3u8?active=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e&googlekey=8cd797aed211503241d2a4725440cc21226e66441fb48a24f89c49233622a95f&keyhash=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e
+#EXTINF:-1,TNT SPORTS 4 HD
+https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_4/tracks-v1a1/mono.ts.m3u8?active=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e&googlekey=8cd797aed211503241d2a4725440cc21226e66441fb48a24f89c49233622a95f&keyhash=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e
+
 #EXTINF:-1, Gxr Real Madrid 
 https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8
 #EXTINF:-1,SETANTA SPORTS 1
