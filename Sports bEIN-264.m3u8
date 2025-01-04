@@ -1,7 +1,7 @@
 
 #EXTM3U
-#EXTINF:1,Tsports AYNA
-https://stream.iptvbd.xyz/Tsport1/index.fmp4.m3u8?token=41e7dc98f46f067c11a67422e12b1d4210bcf4df-c695b42d63ebd2b6546a806c3e8bf758-1735727084-1735716284
+#EXTINF:1,CRICKET AU
+https://play.thebosstv.com:30443/live/in_stream_abr/playlist.m3u8
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://i.imgur.com/jM1FeOX.png" ,Sky Sports Action 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=0005fbae047ef478db08e38cdb6152fc:26434f7b66bbb9edcec958759164c2b3 
