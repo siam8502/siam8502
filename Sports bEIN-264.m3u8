@@ -2,6 +2,16 @@
 #EXTM3U
 #EXTINF:1,CRICKET AU
 https://play.thebosstv.com:30443/live/in_stream_abr/playlist.m3u8
+#EXTINF:1,MBC MASR
+https://shls-masr2-enc.edgenextcdn.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:1,T sports 1
+https://live.tsports.com/live-01/index.m3u8
+#EXTINF:1,T sports 2
+https://live.tsports.com/live-02/index.m3u8
+#EXTINF:1,T sports tv
+http://103.96.235.18:8080/sports1/index.m3u8
+#EXTINF:1,Sports 18 fast
+https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/IDCDemo_IPL23_Sports18_MOB-audio_98838_eng=98800-video=2293600.m3u8
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://i.imgur.com/jM1FeOX.png" ,Sky Sports Action 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=0005fbae047ef478db08e38cdb6152fc:26434f7b66bbb9edcec958759164c2b3 
