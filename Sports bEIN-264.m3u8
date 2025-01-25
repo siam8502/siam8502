@@ -1,5 +1,12 @@
 
 #EXTM3U
+#EXTINF:1,ASTRO GRANDSTAND 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://asdfasdft.mizhls.ru/lb/premium123/index.m3u8
+https://webhdrunns.mizhls.ru/lb/premium93/index.m3u8
+https://ddy6new.iosplayer.ru/ddy6/premium135/mono.m3u8
+https://top2new.iosplayer.ru/top2/premium400/mono.m3u8
 #EXTINF:1,CRICKET AU
 https://play.thebosstv.com:30443/live/in_stream_abr/playlist.m3u8
 #EXTINF:1,MBC MASR
