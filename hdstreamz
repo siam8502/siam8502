@@ -2,7 +2,504 @@
 #EXTINF:1, ASTRO GRANDSTAND 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
 #EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://asdfasdft.mizhls.ru/lb/premium123/index.m3u8
 https://webhdrunns.mizhls.ru/lb/premium123/index.m3u8
-https://ddy6new.iosplayer.ru/ddy6/premium123/mono.m3u8
-https://top2new.iosplayer.ru/top2/premium123/mono.m3u8
+
+#EXTINF:1, ASTRO 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium124/index.m3u8
+
+#EXTINF:1, ASTRO PREMIER LEAGUE 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium125/index.m3u8
+
+#EXTINF:1, ASTRO PREMIER LEAGUE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium126/index.m3u8
+
+#EXTINF:1, MATCH FOOTBALL 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium127/index.m3u8
+
+#EXTINF:1, POLSAT SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium129/index.m3u8
+
+#EXTINF:1, SKY SPORTS PREMIER LEAGUE 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium130/index.m3u8
+
+#EXTINF:1, ARENA PREMIUM 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium134/index.m3u8
+
+#EXTINF:1, ARENA PREMIUM 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium135/index.m3u8
+
+#EXTINF:1, MATCH FOOTBALL 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium136/index.m3u8
+
+#EXTINF:1, MATCH FOOTBALL 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium137/index.m3u8
+
+#EXTINF:1, MATCH FOOTBALL 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium138/index.m3u8
+
+#EXTINF:1, ARENA PREMIUM 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium139/index.m3u8
+
+#EXTINF:1, SPORTS 1 ISRAEL 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium140/index.m3u8
+
+#EXTINF:1, SPORTS 2 ISRAEL 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium141/index.m3u8
+
+#EXTINF:1, SPORTS 3 ISRAEL 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium142/index.m3u8
+
+#EXTINF:1, SPORTS 4 ISRAEL 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium143/index.m3u8
+
+#EXTINF:1, SPORTS 5 ISRAEL 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium144/index.m3u8
+
+#EXTINF:1, ESPN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium149/index.m3u8
+
+#EXTINF:1, ESPN VIVO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium150/index.m3u8
+
+#EXTINF:1, ARENA SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium429/index.m3u8
+
+#EXTINF:1, ARENA SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium430/index.m3u8
+
+#EXTINF:1, ARENA SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium434/index.m3u8
+
+#EXTINF:1, ARENA SPORTS 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium154/index.m3u8
+
+#EXTINF:1, ARENA SPORTS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium177/index.m3u8
+
+#EXTINF:1, ARENA SPORTS 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium156/index.m3u8
+
+#EXTINF:1, MOVISTAR + pl
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium435/index.m3u8
+
+#EXTINF:1, MOVISTAR DEPORTES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium436/index.m3u8
+
+#EXTINF:1, MOVISTAR DIRECTO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium437/index.m3u8
+
+#EXTINF:1, MOVISTAR 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium438/index.m3u8
+
+#EXTINF:1, MOVISTAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium439/index.m3u8
+
+#EXTINF:1, MOVISTAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium167/index.m3u8
+
+#EXTINF:1, DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium426/index.m3u8
+
+#EXTINF:1, DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium427/index.m3u8
+
+#EXTINF:1, DAZN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium168/index.m3u8
+
+#EXTINF:1, CANAL UEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium171/index.m3u8
+
+#EXTINF:1, CANAL +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium172/index.m3u8
+
+#EXTINF:1, CANAL +
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium173/index.m3u8
+
+#EXTINF:1, PRIMA SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium583/index.m3u8
+
+#EXTINF:1, PRIMA SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium584/index.m3u8
+
+#EXTINF:1, PRIMA SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium585/index.m3u8
+
+#EXTINF:1, PRIMA SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium586/index.m3u8
+
+#EXTINF:1, SKY SPORTS SELECT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium587/index.m3u8
+
+#EXTINF:1, SKY SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium588/index.m3u8
+
+#EXTINF:1, SKY SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium589/index.m3u8
+
+#EXTINF:1, SKY SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium590/index.m3u8
+
+#EXTINF:1, SKY SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium591/index.m3u8
+
+#EXTINF:1, SKY SPORTS 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium592/index.m3u8
+
+#EXTINF:1, SKY SPORTS 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium593/index.m3u8
+
+#EXTINF:1, SKY SPORTS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium594/index.m3u8
+
+#EXTINF:1, SKY SPORTS PL8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium595/index.m3u8
+
+#EXTINF:1, SKY SPORTS 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium596/index.m3u8
+
+#EXTINF:1, WILLOW XTRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium598/index.m3u8
+
+#EXTINF:1, DUBAI SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium604/index.m3u8
+
+#EXTINF:1, DUBAI SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium605/index.m3u8
+
+#EXTINF:1, DUBAI SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium606/index.m3u8
+
+#EXTINF:1, ABU DHABI SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium609/index.m3u8
+
+#EXTINF:1, ABU DHABI SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium610/index.m3u8
+
+#EXTINF:1, SSC 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium614/index.m3u8
+
+
+#EXTINF:1, SSC 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium615/index.m3u8
+
+#EXTINF:1, SSC 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium616/index.m3u8
+
+#EXTINF:1, SSC 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium617/index.m3u8
+
+#EXTINF:1, SSC 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium618/index.m3u8
+
+#EXTINF:1, SSC EXTRA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium619/index.m3u8
+
+#EXTINF:1, SSC EXTRA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium620/index.m3u8
+
+#EXTINF:1, SSC EXTRA 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium621/index.m3u8
+
+#EXTINF:1, COSMOTE SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium622/index.m3u8
+
+#EXTINF:1, COSMOTE SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium623/index.m3u8
+
+#EXTINF:1, COSMOTE SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium624/index.m3u8
+
+#EXTINF:1, COSMOTE SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium625/index.m3u8
+
+#EXTINF:1, COSMOTE SPORTS 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium626/index.m3u8
+
+#EXTINF:1, COSMOTE SPORTS 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium627/index.m3u8
+
+#EXTINF:1, COSMOTE SPORTS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium628/index.m3u8
+
+#EXTINF:1, COSMOTE SPORTS 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium629/index.m3u8
+
+#EXTINF:1, COSMOTE SPORTS 9 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium630/index.m3u8
+
+#EXTINF:1, NOVA SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium631/index.m3u8
+
+#EXTINF:1, NOVA SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium632/index.m3u8
+
+#EXTINF:1, NOVA SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium633/index.m3u8
+
+#EXTINF:1, NOVA SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium634/index.m3u8
+
+#EXTINF:1, NOVA SPORTS 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium635/index.m3u8
+
+#EXTINF:1, NOVA SPORTS 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium636/index.m3u8
+
+#EXTINF:1, NOVA SPORTS START
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium637/index.m3u8
+
+#EXTINF:1, NOVA SPORTS PRIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://webhdrunns.mizhls.ru/lb/premium638/index.m3u8
+
+#EXTINF:1, SKY SPORTS CRICKET 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://asdfasdft.mizhls.ru/lb/premium65/index.m3u8
+
+#EXTINF:1, ASTRO CRICKET 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://asdfasdft.mizhls.ru/lb/premium370/index.m3u8
+
+#EXTINF:1, FOX CRICKET 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://asdfasdft.mizhls.ru/lb/premium369/index.m3u8
+
+#EXTINF:1, SUPER SPORTS CRICKET 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://asdfasdft.mizhls.ru/lb/premium368/index.m3u8
+
+#EXTINF:1, BEIN SPORTS 1 ARABIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://asdfasdft.mizhls.ru/lb/premium91/index.m3u8
+
+#EXTINF:1, BEIN SPORTS 2 ARABIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://asdfasdft.mizhls.ru/lb/premium92/index.m3u8
+
+#EXTINF:1, BEIN SPORTS 3 ARABIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://asdfasdft.mizhls.ru/lb/premium93/index.m3u8
+
+#EXTINF:1, BEIN SPORTS 4 ARABIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://asdfasdft.mizhls.ru/lb/premium94/index.m3u8
+
+#EXTINF:1, BEIN SPORTS 5 ARABIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://asdfasdft.mizhls.ru/lb/premium95/index.m3u8
+
+#EXTINF:1, BEIN SPORTS 6 ARABIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://asdfasdft.mizhls.ru/lb/premium96/index.m3u8
+
+#EXTINF:1, BEIN SPORTS 7 ARABIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://asdfasdft.mizhls.ru/lb/premium97/index.m3u8
+
+#EXTINF:1, BEIN SPORTS 8 ARABIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://asdfasdft.mizhls.ru/lb/premium98/index.m3u8
+
+#EXTINF:1, BEIN SPORTS Olympics 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://asdfasdft.mizhls.ru/lb/premium99/index.m3u8
+
+#EXTINF:1, BEIN SPORTS EXTRA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
+#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
+https://asdfasdft.mizhls.ru/lb/premium100/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
