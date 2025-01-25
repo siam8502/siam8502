@@ -10,8 +10,22 @@ https://live.tsports.com/live-01/index.m3u8
 https://live.tsports.com/live-02/index.m3u8
 #EXTINF:1,T sports tv
 http://103.96.235.18:8080/sports1/index.m3u8
+#EXTINF:1,T sports hc24
+https://cdn.hoichoi24.com/t-sports-tv5.hoichoi24.com/video.m3u8
 #EXTINF:1,Sports 18 fast
 https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/IDCDemo_IPL23_Sports18_MOB-audio_98838_eng=98800-video=2293600.m3u8
+#EXTINF:1,GTV
+https://cdn.hoichoi24.com/gtv-sports-tv5.hoichoi24.com/video.m3u8
+#EXTINF:1,Sport 18 - 1
+https://mycdn.tamilultratv.com/live.m3u8?id=1985
+#EXTINF:1,Sport 18 - 2
+https://mycdn.tamilultratv.com/live.m3u8?id=2852
+#EXTINF:1,Sport 18 - 3
+https://mycdn.tamilultratv.com/live.m3u8?id=2853
+#EXTINF:1,Sport 18 - HINDI
+https://mycdn.tamilultratv.com/live.m3u8?id=1998
+#EXTINF:1,ZEE TEST
+https://dai.google.com/ssai/event/LAERz4SKT9CQ7k_oVeM3eg/master.m3u8
 #EXTINF:-1 group-title="CHANNEL | SPORTS" tvg-logo="https://i.imgur.com/jM1FeOX.png" ,Sky Sports Action 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=0005fbae047ef478db08e38cdb6152fc:26434f7b66bbb9edcec958759164c2b3 
@@ -23,7 +37,7 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/o
 #EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-title="SPORTS" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Cricket.png",832 ASTRO CRICKET
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
-
+https://criccoder.pages.dev/astro.m3u8
 #EXTINF:-1,PEACOCK 1
 https://fs.qwertyisaddictedtodxm.pw/event1-peacock/index.m3u8
 #EXTINF:-1,PEACOCK 2
