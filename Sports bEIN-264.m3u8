@@ -5,6 +5,20 @@
 #EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
 https://asdfasdft.mizhls.ru/lb/premium123/index.m3u8|Origin=https://qqwebplay.xyz
 
+#EXTINF:1,Star Sports Tamil
+https://vaathala00.github.io/stream/tamil/master.m3u8?begin=20140124T134500&end=20140124T144500
+#EXTINF:1,Star Sports English 
+https://vaathala00.github.io/stream/english/master.m3u8?begin=20140124T134500&end=20140124T144500
+#EXTINF:1,Star Sports Hindi
+https://vaathala00.github.io/stream/hindi/master.m3u8?begin=20140124T134500&end=20140124T144500
+#EXTINF:1,Star Sports Telugu 
+https://vaathala00.github.io/stream/telugu/master.m3u8?begin=20140124T134500&end=20140124T144500
+#EXTINF:1,Astro Cricket
+https://vaathala00.github.io/stream/v1a1/mono1.m3u8?begin=20140124T134500&end=20140124T144500
+#EXTINF:1,Fox Cricket 
+https://vaathala00.github.io/stream/v1a1/mono2.m3u8?begin=20140124T134500&end=20140124T144500
+
+
 #EXTINF:1,CRICKET AU
 https://play.thebosstv.com:30443/live/in_stream_abr/playlist.m3u8
 #EXTINF:1,MBC MASR
