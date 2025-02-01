@@ -53,22 +53,7 @@ https://linear001-gb-dash1-prd-ak.cdn.skycdp.com//100e/Content/DASH_003_sm/Live/
 https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd?|drmScheme=clearkey&drmLicense=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
 
 
-#EXTINF:-1 tvg-id="AstroCricket" tvg-name="Astro Cricket HD" group-title="SPORTS" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://ws.kapallayar.cc//image//Logo//SPORTS//New//S_Cricket.png",832 ASTRO CRICKET
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
-https://criccoder.pages.dev/astro.m3u8
-#EXTINF:-1,PEACOCK 1
-https://fs.qwertyisaddictedtodxm.pw/event1-peacock/index.m3u8
-#EXTINF:-1,PEACOCK 2
-https://fs.qwertyisaddictedtodxm.pw/event2-peacock/index.m3u8
-#EXTINF:-1,PEACOCK 3
-https://fs.qwertyisaddictedtodxm.pw/event3-peacock/index.m3u8
-#EXTINF:-1,PEACOCK 4
-https://fs.qwertyisaddictedtodxm.pw/event4-peacock/index.m3u8
-#EXTINF:-1,PEACOCK 5
-https://fs.qwertyisaddictedtodxm.pw/event5-peacock/index.m3u8
-#EXTINF:-1,PEACOCK 6
-https://fs.qwertyisaddictedtodxm.pw/event6-peacock/index.m3u8
+
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysport1.nz" tvg-name="NZ: SKY SPORT 1 FHD" tvg-logo="https://i.ibb.co/X2NMJ9h/Skysport1.png" group-title="13.SPORT",Sky Sport 01
@@ -181,28 +166,40 @@ http://103.175.242.10:8080/foxcricekt/mono.m3u8
 #EXTINF:-1,RTA SPORTS 
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
 #EXTINF:1, Bein Sports 1 
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/2253
 https://gcf.nrslist.com/TVD4001/index.mpd
 #EXTINF:1,BEIN SPORTS 2
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/3058
 https://gcf.nrslist.com/TVD4002/index.mpd
 #EXTINF:1, BEIN SPORTS 3
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/3059
 https://gcf.nrslist.com/TVD4003/index.mpd
 #EXTINF:1, BEIN SPORTS 4
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/2250
 https://gcf.nrslist.com/TVD4004/index.mpd
 #EXTINF:1, BEIN SPORTS 5
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/2249
 https://gcf.nrslist.com/TVD4005/index.mpd
 #EXTINF:1, BEIN SPORTS 6
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/2248
 https://gcf.nrslist.com/TVD4006/index.mpd
 #EXTINF:1, BEIN SPORTS 7
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/2247
 https://gcf.nrslist.com/TVD4007/index.mpd
 #EXTINF:1, BEIN SPORTS 8
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/2246
 https://gcf.nrslist.com/TVD4008/index.mpd
 #EXTINF:1, BEIN SPORTS 9
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/924
 https://gcf.nrslist.com/TVD4009/index.mpd
 #EXTINF:1, BEIN SPORTS ENGLISH 1
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/2243
 https://gcf.nrslist.com/TVD4011/index.mpd
-#EXTINF:1, BEIN SPORTS ENGLISH 2
+#EXTINF:1, BEIN SPORTS Fr 2
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/1004
 https://gcf.nrslist.com/TVD4012/index.mpd
-#EXTINF:1, BEIN SPORTS ENGLISH 3
+#EXTINF:1, BEIN SPORTS Fr 3
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/2242
 https://gcf.nrslist.com/TVD4013/index.mpd
 #EXTINF:1, BEIN SPORTS AFC 1
 https://gcf.nrslist.com/TVD4064/index.mpd
@@ -287,18 +284,22 @@ https://key2.keylocking.ru/wmsxx.php?test=true&name=premium134&number=1
 #EXTM3U
 https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.m3u
 #EXTINF:1,TNT SPORTS 1
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/3933
 https://gcf.nrslist.com/TVD001/index.mpd
 https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_1/index.m3u8?googlekey=06a44abd6596c12dcc68a857b9b0c3990a3fbafe9a147aa7337aca47d36df9a7&active=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e&keyhash=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e
 https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_1_BU/index.m3u8?googlekey=7e6066beaaba041f04c5ac7bbaa6c1777d1981d2d8f445439001c005ee2b0c08&active=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e&keyhash=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e
 #EXTINF:1,TNT SPORTS 2
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/3934
 https://gcf.nrslist.com/TVD002/index.mpd
 https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_2/index.m3u8?googlekey=06a44abd6596c12dcc68a857b9b0c3990a3fbafe9a147aa7337aca47d36df9a7&active=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e&keyhash=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e
 https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_2_BU/index.m3u8?googlekey=7e6066beaaba041f04c5ac7bbaa6c1777d1981d2d8f445439001c005ee2b0c08&active=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e&keyhash=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e
 #EXTINF:1,TNT SPORTS 3
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/3935
 https://gcf.nrslist.com/TVD003/index.mpd
 https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_3/index.m3u8?googlekey=06a44abd6596c12dcc68a857b9b0c3990a3fbafe9a147aa7337aca47d36df9a7&active=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e&keyhash=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e
 https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_3_BU/index.m3u8?googlekey=7e6066beaaba041f04c5ac7bbaa6c1777d1981d2d8f445439001c005ee2b0c08&active=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e&keyhash=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e
 #EXTINF:1,TNT SPORTS 4
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/3936
 https://gcf.nrslist.com/TVD004/index.mpd
 https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_4/index.m3u8?googlekey=06a44abd6596c12dcc68a857b9b0c3990a3fbafe9a147aa7337aca47d36df9a7&active=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e&keyhash=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e
 https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_4_BU/index.m3u8?googlekey=7e6066beaaba041f04c5ac7bbaa6c1777d1981d2d8f445439001c005ee2b0c08&active=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e&keyhash=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e
@@ -308,26 +309,13 @@ https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_4/index.m3u8?googlekey=06a
 https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_5_BU/index.m3u8?googlekey=7e6066beaaba041f04c5ac7bbaa6c1777d1981d2d8f445439001c005ee2b0c08&active=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e&keyhash=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e
 
 #EXTINF:1,SKY SPORTS CRICKET 
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/505
 https://gcf.nrslist.com/TVD024/index.mpd
 https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Cricket_Live_TV/index.m3u8?googlekey=fa0f1df0a855c496b6e7fd3944204aceefeff588a30a78b0f2b979c38314fca6&active=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e&keyhash=dad8b1e1439874ebd181467938021b761bb0c4ea81866518a062f82a950a155e
-#EXTINF:-1,SKY SPORTS MAIN EVENT 
-https://gcf.nrslist.com/TVD043/index.mpd
-https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Main_Event/index.m3u8?googlekey=f4feaa0ef99ed7b7b7917473ff2b04031afbf18c7b784c1152bf64a8b380408f&active=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26&keyhash=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26
-https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Main_Event_BU/index.m3u8?googlekey=fef3b275927397b6d9ad4376df9f9bc64f3149f1364269ce4690b5ef8d6e76cd&active=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26&keyhash=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26
-#EXTINF:1,SKY SPORTS NFL
-https://gcf.nrslist.com/TVD015/index.mpd
-#EXTINF:1,SKY SPORTS GOLF
-https://gcf.nrslist.com/TVD016/index.mpd
-#EXTINF:1,SKY SPORTS FOOTBALL 
-https://gcf.nrslist.com/TVD016/index.mpd
-https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Football_Live_TV/index.m3u8?googlekey=a004a508df750b813eb3fd8623059a5eb630e60f70e86e97301f7871c0746e2b&active=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26&keyhash=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26
-https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Football_BU/index.m3u8?googlekey=e0e6869d122725f01463b5e09fbd6235366f4a64cf20249cd19cbe8c1638ada9&active=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26&keyhash=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26
-#EXTINF:1,SKY PL
-http://gcp-dash.ngslbs.com/TVD018/index.mpd
-https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Premier_League/index.m3u8?googlekey=2bd975f1e3ce6c4be6d07a64ccba51beefbb174bf672edb156fe4a819bbc1e21&active=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26&keyhash=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26
-https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Premier_League_BU/index.m3u8?googlekey=2bd975f1e3ce6c4be6d07a64ccba51beefbb174bf672edb156fe4a819bbc1e21&active=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26&keyhash=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26
-https://gcf.nrslist.com/TVD018/index.mpd
-#EXTINF:-1,LALIGA TV
+#EXTINF:1,PTV
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/498
+#EXTINF:1,Willow Fhd
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/1139
 https://rr2---sn-npoe23nsr.creativehub.sbs/La_Liga_TV_Live_TV/index.m3u8?googlekey=49f8bb8a0c7ee02187d4baaf9bc17f3d6f0533a9f77de6478690b034dbdfe874&active=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26&keyhash=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26
 #EXTINF:1,SKY Sports Mix
 https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Mix_Live_TV/index.m3u8?googlekey=c01be1a894f0b9ec4fc52665fc7457543b03c89752d392892b7089b37dd0ef3c&active=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26&keyhash=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26
@@ -339,17 +327,50 @@ https://rr2---sn-npoe23nsr.creativehub.sbs/SuperSport_Premier_League_Live_TV/ind
 #EXTINF:1,SUPER SPORT LALIGA
 https://rr2---sn-npoe23nsr.creativehub.sbs/SuperSport_LaLiga_Live_TV/index.m3u8?googlekey=69ccf2af41b4c25a7a444393e24061d9859fdeed6db44de7fb9d39a33bb1ba53&active=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26&keyhash=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26
 #EXTINF:1,SUPER SPORT CRICKET 
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/1317
 https://rr2---sn-npoe23nsr.creativehub.sbs/SuperSport_Cricket_Live_TV/index.m3u8?googlekey=69ccf2af41b4c25a7a444393e24061d9859fdeed6db44de7fb9d39a33bb1ba53&active=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26&keyhash=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26
-#EXTINF:1,SUPER SPORT FOOTBALL 
-https://rr2---sn-npoe23nsr.creativehub.sbs/SuperSport_Football_Live_TV/index.m3u8?googlekey=69ccf2af41b4c25a7a444393e24061d9859fdeed6db44de7fb9d39a33bb1ba53&active=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26&keyhash=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26
-#EXTINF:1,PREMIER SPORTS 1
-https://rr2---sn-npoe23nsr.creativehub.sbs/Premier_Sports_1/index.m3u8?googlekey=5b47d4798423fcc2beb351cbc2468df12584842879a487f697c4fd1b934a7028&active=fc0b20c7d07c27958c06a159aa59e1d53e4c77d49791a87870556f96c72ef9ea&keyhash=fc0b20c7d07c27958c06a159aa59e1d53e4c77d49791a87870556f96c72ef9ea
-#EXTINF:1,PREMIER SPORTS 2
-https://rr2---sn-npoe23nsr.creativehub.sbs/Premier_Sports_2/index.m3u8?googlekey=5b47d4798423fcc2beb351cbc2468df12584842879a487f697c4fd1b934a7028&active=fc0b20c7d07c27958c06a159aa59e1d53e4c77d49791a87870556f96c72ef9ea&keyhash=fc0b20c7d07c27958c06a159aa59e1d53e4c77d49791a87870556f96c72ef9ea
-#EXTINF:1,WILLOW CRICKET
-https://rr2---sn-npoe23nsr.creativehub.sbs/Willow_Cricket_Live_TV/index.m3u8?googlekey=80e8f250d7ce4d54afe51cabd5b68f31cef03c35006eba3933bc78f1e0894d65&active=fc0b20c7d07c27958c06a159aa59e1d53e4c77d49791a87870556f96c72ef9ea&keyhash=fc0b20c7d07c27958c06a159aa59e1d53e4c77d49791a87870556f96c72ef9ea
-#EXTINF:1,WILLOW EXTRA
-https://rr2---sn-npoe23nsr.creativehub.sbs/Willow_Extra_Live_TV/index.m3u8?googlekey=89e5c1b89d8e4471cc7c0b5e3ff587a9a44cca8a51f02c5d8ce794cd2ffc220d&active=fc0b20c7d07c27958c06a159aa59e1d53e4c77d49791a87870556f96c72ef9ea&keyhash=fc0b20c7d07c27958c06a159aa59e1d53e4c77d49791a87870556f96c72ef9ea
+#EXTINF:1,A sports
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/804
+https://rr2---sn-npoe23nsr.creativehub.sbs/La_Liga_TV_Live_TV/index.m3u8?googlekey=49f8bb8a0c7ee02187d4baaf9bc17f3d6f0533a9f77de6478690b034dbdfe874&active=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26&keyhash=a2f01370b54a8e8ed3e77a749f6b15dd2d0694801a0e2221dd50f9a9e603df26
+#EXTINF:1,Fox Cricket 
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/6651
+#EXTINF:1,Willow Hd
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/517
+#EXTINF:1,Willow xtra
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/2581
+#EXTINF:1,Sony Sports 1
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/497
+#EXTINF:1,Sony Sports 2
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/513
+#EXTINF:1,Sony Sports 3
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/518
+#EXTINF:1,Sony Sports 4
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/52
+#EXTINF:1,Sony Sports 5
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/1367
+#EXTINF:1,Dazn 1
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/530
+http://bbb.g9cap.com/TVB1230/index.mpd
+#EXTINF:1,Dazn 2
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/531
+http://cty.familytv.co/TVB1229/index.mpd
+#EXTINF:1,SSC 1
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/6650
+#EXTINF:1,SSC 2
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/6652
+#EXTINF:1,SSC 3
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/6653
+#EXTINF:1,SSC 4
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/6654
+#EXTINF:1,SSC 5
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/6655
+#EXTINF:1,SSC extra
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/6656
+#EXTINF:1,Fancode 1
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/6657
+#EXTINF:1,Fancode 1
+http://link.luckonline.eu/Sohail02/myQYkEntaxuZ/6659
+
 #EXTINF:1,ESPN
 http://bbb.g9cap.com/TVB1247/index.mpd
 https://rr2---sn-npoe23nsr.creativehub.sbs/ESPN_Live_TV/index.m3u8?googlekey=a98d86b2c3a6ee19988cf484b284ec475655e4b23a20560d7fe7202bba554dd7&active=fc0b20c7d07c27958c06a159aa59e1d53e4c77d49791a87870556f96c72ef9ea&keyhash=fc0b20c7d07c27958c06a159aa59e1d53e4c77d49791a87870556f96c72ef9ea
@@ -359,29 +380,6 @@ https://rr2---sn-npoe23nsr.creativehub.sbs/ESPN_2_Live_TV/index.m3u8?googlekey=e
 #EXTINF:1,CBS SPORTS NETWORK 
 https://rr2---sn-npoe23nsr.creativehub.sbs/CBS_Sports_Network_Live_TV/index.m3u8?googlekey=c132061353dd75497b844ddfa5381675820e531000d3c9376f70ecd806359192&active=fc0b20c7d07c27958c06a159aa59e1d53e4c77d49791a87870556f96c72ef9ea&keyhash=fc0b20c7d07c27958c06a159aa59e1d53e4c77d49791a87870556f96c72ef9ea
 
-#EXTINF:1,SKY 2
-http://gcp-dash.ngslbs.com/TVD019/index.mpd
-https://gcf.nrslist.com/TVD019/index.mpd
-#EXTINF:1,SKY 3
-http://gcp-dash.ngslbs.com/TVD019/index.mpd
-https://gcf.nrslist.com/TVD019/index.mpd
-#EXTINF:1,SKY 4
-http://gcp-dash.ngslbs.com/TVD020/index.mpd
-https://gcf.nrslist.com/TVD020/index.mpd
-#EXTINF:1,SKY news 
-http://gcp-dash.ngslbs.com/TVD021/index.mpd
-https://gcf.nrslist.com/TVD021/index.mpd
-#EXTINF:1,SKY Sports F1
-http://gcp-dash.ngslbs.com/TVD023/index.mpd
-https://gcf.nrslist.com/TVD023/index.mpd
-#EXTINF:1,ESPN 4
-http://bbb.g9cap.com/TVB1141/index.mpd
-#EXTINF:1,ESPN 5
-http://bbb.g9cap.com/TVB1142/index.mpd
-#EXTINF:1,Dazn 1
-http://bbb.g9cap.com/TVB1230/index.mpd
-#EXTINF:1,Dazn 2
-http://cty.familytv.co/TVB1229/index.mpd
 #EXTINF:1,Dazn 3
 http://cty.familytv.co/TVB1228/index.mpd
 #EXTINF:1,Premiere 
@@ -394,34 +392,7 @@ http://cty.familytv.co/TVB1104/index.mpd
 
 #EXTINF:1,SONY LIV
 https://key2.keylocking.ru/wmsxx.php?test=true&name=premium134&number=1
-#EXTM3U
-https://raw.githubusercontent.com/RhqAB/TV/refs/heads/main/Github.m3u8
-#EXTINF:-1,PARAMOUNT+1
-https://fs.fscdn.fun/event1-prime/index.m3u8
-#EXTINF:-1,PARAMOUNT+2
-https://fs.fscdn.fun/event2-prime/index.m3u8
-#EXTINF:-1,PARAMOUNT+3
-https://fs.fscdn.fun/event3-prime/index.m3u8
-#EXTINF:-1,PARAMOUNT+4
-https://fs.fscdn.fun/event4-prime/index.m3u8
 
-#EXTINF:-1,PARAMOUNT+5
-https://fs.fscdn.fun/event5-prime/index.m3u8
-#EXTINF:-1,PARAMOUNT+6
-https://fs.fscdn.fun/event6-prime/index.m3u8
-#EXTINF:-1,PARAMOUNT+7
-https://fs.fscdn.fun/event7-prime/index.m3u8
-#EXTINF:-1,PARAMOUNT+8
-https://fs.fscdn.fun/event8-prime/index.m3u8
-#EXTINF:-1,PARAMOUNT+9
-https://fs.fscdn.fun/event9-prime/index.m3u8
-#EXTINF:-1,PARAMOUNT+10
-https://fs.fscdn.fun/event10-prime/index.m3u8
-#EXTINF:-1,CBS SPORTS 
-https://fs.anonup.net/event3-prime/index.m3u8
-
-#EXTM3U 
-https://raw.githubusercontent.com/totaflix/totaflix/refs/heads/main/totaflix.m3u
 
 #EXTINF:0,Star Sports 1
 http://103.89.248.22:8082/STAR-SPORTS-1/index.fmp4.m3u8?token=ffd5be1cf19562367a39dbb68b0944253a09333a-0c02c00781ee47fcd58defce975679d4-1736856784-1736845984
