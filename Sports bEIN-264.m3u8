@@ -25,8 +25,10 @@ https://play.thebosstv.com:30443/live/in_stream_abr/playlist.m3u8
 https://shls-masr2-enc.edgenextcdn.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 #EXTINF:1,T sports 1
 https://tsports.buddyxiptv.com/stream.php?stream=https://live-cdn.tsports.com/live-01/index.m3u8
+https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:1,T sports 2
 https://tsports.buddyxiptv.com/stream.php?stream=https://live-cdn.tsports.com/live-02/index.m3u8
+https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
 #EXTINF:1,T sports tv
 http://103.96.235.18:8080/sports1/index.m3u8
 #EXTINF:1,T sports hc24
