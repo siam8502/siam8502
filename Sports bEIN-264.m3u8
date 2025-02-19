@@ -1,9 +1,14 @@
 
 #EXTM3U
-#EXTINF:1,ASTRO GRANDSTAND 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox /2.2.8
-#EXTVLCOPT:http-referrer=https://qqwebplay.xyz/
-https://asdfasdft.mizhls.ru/lb/premium123/index.m3u8|Origin=https://qqwebplay.xyz
+#EXTINF:1,WILLOW SPORTS AMZN
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd
+
+#EXTINF:1,CT25 PRIME
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=cb8daf414566aa17d06f8294f3f3b444:89d58908a57d70ef87bf16c9b5821ca2
+https://aba5sdmaaaaaaaamdgp3ryzabcel7.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1koccf0pf1/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd
 
 #EXTINF:1,Star Sports Tamil
 https://vaathala00.github.io/stream/tamil/master.m3u8?begin=20140124T134500&end=20140124T144500
