@@ -44,13 +44,18 @@ https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 #EXTINF:1,T sports 2
 https://tsports.buddyxiptv.com/stream.php?stream=https://live-cdn.tsports.com/live-02/index.m3u8
 https://live.tsports.com/mobile_hls/tsports_live_2/playlist.m3u8
+#EXTINF:1,T sports 3
+https://live.tsports.com/mobile_hls/tsports_live_3/playlist.m3u8
 #EXTINF:1,T sports tv
+http://97.74.103.44:8089/amrbd/LIVE-SPORTS/playlist.m3u8
 http://103.96.235.18:8080/sports1/index.m3u8
 https://stream.iptvbd.online/tsports/index.m3u8
 #EXTINF:1,T sports hc24
 https://cdn.hoichoi24.com/hoichoi24.com-T-sports/video.m3u8
 #EXTINF:1,Sports 18 fast
 https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/IDCDemo_IPL23_Sports18_MOB-audio_98838_eng=98800-video=2293600.m3u8
+#EXTINF:1,WILLOW CRICBUZZ
+http://97.74.103.44:8888/load/WILLOW CRICKET/playlist.m3u8
 #EXTINF:1,GTV
 https://cdn.hoichoi24.com/gtv-sports-tv5.hoichoi24.com/video.m3u8
 #EXTINF:1,Sport 18 - 1
