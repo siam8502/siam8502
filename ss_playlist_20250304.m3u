@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", tsports
+https://1rdk.short.gy/আকাশ_বাতাস_t_sports_rashed_an_grup.m3u8
+#EXTINF:0 type="stream" channelId="-1", Aus vs Eng
+https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", Ucl 1
+https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", Ucl 2
+https://dai.google.com/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", UCL 3
+https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", Ucl 4
+https://dai.google.com/ssai/event/FgOj57oiSEyp5FLaDUhRWA/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", Ucl 5
+https://dai.google.com/ssai/event/3b4sC3GDQiigmH7iMYfwTQ/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", Sports
+https://shls-masr2-enc.edgenextcdn.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", T sports
+https://cdn.hoichoi24.com/hoichoi24.com-T-sports/video.m3u8
+#EXTINF:0 type="stream" channelId="-1", T sports 1 app
+https://live.tsports.com/live-02/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", T sports 2 app
+https://live.tsports.com/live-01/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Star sports
+https://vaathala00.github.io/stream/english/master.m3u8?&play_token=join@vaathala1
+#EXTINF:0 type="stream" channelId="-1", Liv 1
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/master_mdh.m3u8?hdnea=exp=1739162367~acl=/*~id=88054482068563239711150943866538~hmac=1a66ee2abc641b382b6fc5fae8c8caa101d2bed73030aa27a4d9ac3f9d635552
+#EXTINF:0 type="stream" channelId="-1", Liv 2
+https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/master_mdh.m3u8?hdnea=exp=1739162367~acl=/*~id=88054482068563239711150943866538~hmac=1a66ee2abc641b382b6fc5fae8c8caa101d2bed73030aa27a4d9ac3f9d635552
+#EXTINF:0 type="stream" channelId="-1", liv 3
+https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master_mdh.m3u8?hdnea=exp=1739162367~acl=/*~id=88054482068563239711150943866538~hmac=1a66ee2abc641b382b6fc5fae8c8caa101d2bed73030aa27a4d9ac3f9d635552
+#EXTINF:0 type="stream" channelId="-1", liv 4
+https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", liv 5
+https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", liv 6
+https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", liv 7
+https://dai.google.com/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", liv 8
+https://dai.google.com/ssai/event/jirIBSMoQDWBeTr-f6WNpA/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", liv 9
+https://dai.google.com/ssai/event/FgOj57oiSEyp5FLaDUhRWA/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", liv 10
+https://dai.google.com/ssai/event/3b4sC3GDQiigmH7iMYfwTQ/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", liv 11
+https://dai.google.com/ssai/event/hQXQ8apwTJeGKlGD7Oi7lQ/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", liv 12
+https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", liv 13
+https://dai.google.com/ssai/event/NVkw1vF1SImKE2QAWVwfBA/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", liv 14
+https://dai.google.com/linear/hls/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", liv 15
+https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", liv 16
+https://dai.google.com/ssai/event/nYSuS-LZSbapsC12DoZBmw/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", liv 17
+https://1rdk.short.gy/RASHEDANUOR2.m3u8
+#EXTINF:0 type="stream" channelId="-1", liv 18
+https://1rdk.short.gy/RASHEDANUOR_ENG.m3u8
+#EXTINF:0 type="stream" channelId="-1", liv 19
+https://1rdk.short.gy/Indvzm.m3u8
+#EXTINF:0 type="stream" channelId="-1", Bein 1
+http://45.139.122.148:8000/play/a005
+#EXTINF:0 type="stream" channelId="-1", bein 2
+http://45.139.122.148:8000/play/a006
+#EXTINF:0 type="stream" channelId="-1", bein 3
+http://45.139.122.148:8000/play/a007
+#EXTINF:0 type="stream" channelId="-1", bein 4
+http://45.139.122.148:8000/play/a008
+#EXTINF:0 type="stream" channelId="-1", bein 5
+http://45.139.122.148:8000/play/a009
+#EXTINF:0 type="stream" channelId="-1", ASTRO CRICKET
+https://daddy.nayeem-parvez.workers.dev/370.m3u8
+#EXTINF:0 type="stream" channelId="-1", CT25 PRIME
+https://aba5sdmaaaaaaaamdgp3ryzabcel7.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1koccf0pf1/out/v1/190f1d69a3d5467f8fb7d9df4339bc49/cenc.mpd?|drmScheme=clearkey&drmLicense=cb8daf414566aa17d06f8294f3f3b444:89d58908a57d70ef87bf16c9b5821ca2
+#EXTINF:0 type="stream" channelId="-1", Willow sports  amzn
+https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd?|drmScheme=clearkey&drmLicense=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
+#EXTINF:0 type="stream" channelId="-1", Sports 18
+https://jiotvbpklive.cdn.jio.com/bpk-tv/IDCDemo_IPL23_Sports18_MOB/Fallback/index.m3u8
